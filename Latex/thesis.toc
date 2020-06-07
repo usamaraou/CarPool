@@ -1,0 +1,22 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Abstract}{i}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Is computer science science?}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}The Degree Project Report}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Literature Review}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Requirement Specifications}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Design}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System Architecture}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Design Constraints}{7}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Design Methodology}{7}{section.4.3}%
+\contentsline {section}{\numberline {4.4}High Level Design}{8}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Low Level Design}{8}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Database Design}{8}{section.4.6}%
+\contentsline {section}{\numberline {4.7}GUI Design}{9}{section.4.7}%
+\contentsline {section}{\numberline {4.8}External Interfaces}{9}{section.4.8}%
+\contentsline {chapter}{\numberline {5}System Implementation}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}System Architecture}{11}{section.5.1}%
+\contentsline {chapter}{\numberline {6}System Testing and Evaluation}{13}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Conclusions}{15}{chapter.7}%
+\contentsline {chapter}{\numberline {A}User Manual}{17}{appendix.A}%
+\contentsline {chapter}{References}{19}{section*.16}%
