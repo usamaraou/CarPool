@@ -43,7 +43,18 @@
 \BOOKMARK [2][-]{subsection.4.7.1}{4.7.1 Login and Signup Screens}{section.4.7}% 43
 \BOOKMARK [0][-]{chapter.5}{5 System Implementation}{}% 44
 \BOOKMARK [1][-]{section.5.1}{5.1 System Architecture}{chapter.5}% 45
-\BOOKMARK [0][-]{chapter.6}{6 System Testing and Evaluation}{}% 46
-\BOOKMARK [0][-]{chapter.7}{7 Conclusions}{}% 47
-\BOOKMARK [0][-]{appendix.A}{A User Manual}{}% 48
-\BOOKMARK [0][-]{section*.62}{References}{}% 49
+\BOOKMARK [1][-]{section.5.2}{5.2 Work Environment}{chapter.5}% 46
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Hardware platforms}{section.5.2}% 47
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Software platforms}{section.5.2}% 48
+\BOOKMARK [2][-]{subsection.5.2.3}{5.2.3 Work Tools}{section.5.2}% 49
+\BOOKMARK [2][-]{subsection.5.2.4}{5.2.4 Programming languages:}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.5}{5.2.5 Frameworks used:}{section.5.2}% 51
+\BOOKMARK [1][-]{section.5.3}{5.3 Database Management System}{chapter.5}% 52
+\BOOKMARK [1][-]{section.5.4}{5.4 Tools and Technology}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.5}{5.5 System requirements}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.6}{5.6 Security}{chapter.5}% 55
+\BOOKMARK [1][-]{section.5.7}{5.7 Rules}{chapter.5}% 56
+\BOOKMARK [0][-]{chapter.6}{6 System Testing and Evaluation}{}% 57
+\BOOKMARK [0][-]{chapter.7}{7 Conclusions}{}% 58
+\BOOKMARK [0][-]{appendix.A}{A User Manual}{}% 59
+\BOOKMARK [0][-]{section*.64}{References}{}% 60

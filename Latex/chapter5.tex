@@ -2,17 +2,165 @@
 %\version{v1.10.2015}
 
 \section*{}
-Implementation is the process of moving an idea from concept to reality. The System implementation is a realization of a technical specification or algorithm as a program, software component, or other computer system through programming and deployment.
-
 \section{System Architecture}
-Describe the architecture e.g. in terms of:  System internal components, Functionality of the components, Communication between the components
-Tools and Technology Used
-Development Environment/Languages Used
-Processing Logic/Algorithms
-Application Access Security
-Describe new application access related security measures, e.g. in terms of: Security Zones/Firewalls, Encryption, Authentication, e.g. Account \& Password structures and rules, Authorization, e.g. operator rights and roles, authority handling, Auditing / Access Logging, Safe Data Storage
-Database Security
+Application architecture is a set of technologies and models for the development of 
+fully-structured mobile programs based on industry and vendor-specific standards. As we develop the architecture of our application, we also consider programs that work on wireless devices such as smartphones and tablets.
 
-Describe new DB related security measures, e.g. in terms of:  Remote Access, Authentication (Account \& Password: structure, rules), Authorization (rights/roles, handling), Anonymous and Group Users, Auditing/Logging (events, data, log handling).
+\begin{figure}[ht]
+\center
+\includegraphics[width=0.8\textwidth]{SystemArchitectureCH5}
+\caption{System Architecture}
+\label{fig:System Architecture}
+\end{figure}
+
+\section{Work Environment}
+
+\subsection{Hardware platforms}
+For the development of this application we have used an Hp Elitebook workstation 8460w it fairly powerful and could handle the usage of multiple emulators at once. Full Specifications:
+
+\begin{itemize}
+\item \textbf{Processor} : Intel® Core™ i7-2630QM Processor (2.0 GHz, 6 MB L3 Cache)
+\item \textbf{Memory }: 12GB 1333 MHz DDR3 SDRAM (2D)
+\item \textbf{Graphics }: AMD FirePro™ M3900 w/1 GB gDDR3
+\item \textbf{HDD Drive }: 1TB
+\end{itemize}
+
+For the testing of the application on a real device we have used an Android Phone Samsung Galaxy Note 8, Huawei  Mate 10 Pro
+
+\subsection{Software platforms}
+As for the software part of the work environment we have used several tools 
+and frameworks alongside different versions of android.
+
+\subsection{Work Tools}
+\begin{itemize}
+\item \textbf{Operating System }: Windows 
+\item \textbf{IDE }: Android Studio 3.2.1
+\item \textbf{Emulators }: Pixel 3 Android 9 / Nexus 5 Android 6
+\item \textbf{Real Device OS}: Android 9 Pie (Samsung Galaxy Note 8)
+\item \textbf{Backend Management}: Firebase Platform
+\item \textbf{Places and Map Tools}: Google Cloud Platform
+\end{itemize}
+ 
+
+\subsection{Programming languages:} 
+\begin{itemize}
+\item \textbf{Application Programming }: Java\\
+Motivation: Java code is inherently safer than Kotlin code because it 
+prevents common programming mistakes by design, resulting in fewer 
+system failures and application crashes. When using Kotlin, certain error 
+causes are more likely to occur again.
+\item \textbf{Layout Design }: XML
+\item \textbf{Database Language }: NoSQL
+\end{itemize}
+
+\subsection{Frameworks used:}
+\begin{itemize}
+\item \textbf{Firebase Auth }: this framework that lets you implement easy Authentication in thisapplication email and phone number authentication was used.
+\item \textbf{Firebase Real-time Database }: this framework is used as our main Database for 
+this application it lets you read and write data from firebase in a NoSQL structure. 
+\item \textbf{Firebase Storage }: this framework is used to upload and download data such as 
+photos and videos, this is used to store user pictures for our database.
+\item \textbf{Firebase Messaging }: a framework that makes real time messaging easy and possible using firebase, it’s also used for push notifications, this used for our messaging function between users in our application. 
+\item \textbf{ Google Maps API }a great API used for MapView that enables the application to show places on the map like the origin and destination and the way between them, it’s used in the map to trace the destination on the map for users.
+\item \textbf{Google Places API }: a very powerful API used to give information about places in the application and used to AutoComplete search queries, it’s used to autocomplete search queries for our users for easier searching, it’s also used to optimize our search function.
+\item \textbf{Material Design Library }: material Design Library with all of its components such as Material Buttons, Material EditText etc.
+\item \textbf{RuntimePermission }: a small library to help manage Android Permissions with no problems. 
+\item \textbf{DxLoadingButton }: a small library with a loading button used for Authentication. 
+\item \textbf{StfalconImageViewer }: a simple and customizable Android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures.
+\item \textbf{Spinner }: A styleable drop down menu for Android using the old spinner style. 
+\item \textbf{Tooltip }: Simple to use customizable Android Tooltips library based on PopupWindow. 
+\item \textbf{EasyValidation }: A text and input validation library in Java for Android. Used to validate user input info.
+\item \textbf{Retrofit }: Type-safe HTTP for Android and Java.
+\end{itemize}
+
+\section{Database Management System}
+To manage the backend of our application we decided to use Firebase Real-time Database alongside with Firebase Auth and Firebase Storage. 
+\begin{itemize}
+\item \textbf{Firebase Real-time Database }\\
+it’s a database structured in a NoSQL way, it’s usage is very easy and very fast, we have used this database to store User objects which contain all the information about the user such as name, email, number etc., we have also used it to store Trip and TripRequest objects .
+\textbf{example of the user node in the database}
+\end{itemize}
+\begin{figure}[ht]
+\center
+\includegraphics[width=1.2\textwidth]{DB} 
+\caption{Example of a user mode in database}
+\label{fig:Example of a user mode in database}
+\end{figure}
+
+\begin{itemize}
+\item \textbf{Real-time Database Usage }\\
+For the usage of this Database a separate Database class was made on Java this 
+class contains all Database related functions the functions require a listener interface that 
+has \textbf{onStart(), onSuccess(), onFailed(),} the interface is used to listen to changes in other 
+classes.
+\\ The reason for creating a separate class with a listener interface is to make 
+migration to another Database easier. If we ever decide to switch to another database we 
+will only change the content of the Database class which would make changes faster, more 
+professional and effective. 
+\\ Firebase’s Real-time Database allows you to use different query methods 
+to fetch data from its Database: 
+\\ The first method is using \textbf{addListenerForSingleValueEvent,} this method listens to changes 
+in data for one time and does not trigger until it’s called again, this is good for fetching data 
+only once. 
+\\ The second method is using \textbf{addValueEventListener,} this method listens 
+to data every time it changes and it also triggers every time it changes this is 
+good for things like messages and real time updates. 
+In our real. 
+\\ We have decided to use \textbf{addListenerForSingleValueEvent} for most of our data 
+fetching, the reason is each time data has been read, Firebase charges for it, which means 
+it the less data is fetched the better, for this we have avoided using\textbf{ addValueEventListener} 
+Instead we fetch the data once and save it locally, when the data is changed the user is 
+required to refresh the page to get updates. However in cases where it’s important to get 
+updates in real time like in messages we have used \textbf{addValueEventListener}. 
+\end{itemize}
+
+\section{Tools and Technology}
+\begin{itemize}
+\item Android
+\item Firebase Platform
+\item Google Cloud Platform
+\item Android Studio
+\item Java Language
+\item Google Maps API
+\item Google Direction API
+\item Google Places API
+\end{itemize}
+
+\section{System requirements}
+\begin{itemize}
+\item Android phone with Minimum SDK android API 19 Kit Kat 
+\item Google Play Services
+\item GPS service
+\item Internet Connection
+\end{itemize}
+
+\section{Security}
+\begin{itemize}
+\item \textbf{Firebase Authentication}\\ 
+Firebase Authentication is a very fast and secure way to sign users into our application it is used to Login and Register users into our database in our case we are using the email verification, a user must verify his email to complete the registration.
+\item \textbf{Authentication Usage}\\
+When a user registers, his basic information (Name, Email, Password) are registered in the Auth Database but not the RealTime Database, after that users are welcomed with a finish registration activity, in this activity they have to verify their email using EMAIL verification, this method is used to prevent spam and multiple account creations, after verification and filling other information user data is saved on the RealTime Database. As for the login the system checks data and logs users if it’s correct.
+\end{itemize}
+
+\section{Rules}
+Some of the restriction and rules are mentioned below :
+\begin{itemize}
+\item User can be used one account for both driver and rider.
+\item Users cannot modify anyone else’s data except theirs.
+\item Only the admin can modify the data of other users.
+\item The driver cannot select more than three riders.
+\item The rider can only contact with their driver.
+\item A rider have to select pick up and drop off points.
+\item Driver, Rider cannot use the app until their accounts are verified.
+\end{itemize}
+
 
  
+
+
+ 
+
+
+
+
+

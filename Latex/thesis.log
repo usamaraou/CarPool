@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  8 JUN 2020 08:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  8 JUN 2020 09:58
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -600,33 +600,27 @@ Writing index file thesis.idx
 \openout2 = `mymacros.aux'.
 
 (mymacros.tex) (thesis.aux (abstract.aux) (acknows.aux) (quote.aux)
-(abbrevs.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux
-
-LaTeX Warning: Label `fig:UseCaseDiagram' multiply defined.
-
-
-LaTeX Warning: Label `fig:Package Diagram' multiply defined.
-
-) (chapter5.aux) (chapter6.aux) (chapter7.aux) (appendix1.aux))
+(abbrevs.aux) (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(chapter5.aux) (chapter6.aux) (chapter7.aux) (appendix1.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 98
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 97
 .
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\t1ptm.fd"
@@ -698,7 +692,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 98.
+Package hyperref Info: Link coloring ON on input line 97.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -711,22 +705,22 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count306
 )
-LaTeX Info: Redefining \ref on input line 98.
-LaTeX Info: Redefining \pageref on input line 98.
-LaTeX Info: Redefining \nameref on input line 98.
+LaTeX Info: Redefining \ref on input line 97.
+LaTeX Info: Redefining \pageref on input line 97.
+LaTeX Info: Redefining \nameref on input line 97.
 
 (thesis.out) (thesis.out)
 \@outlinefile=\write5
 \openout5 = `thesis.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 98.
+LaTeX Info: Redefining \microtypecontext on input line 97.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 98.
+LaTeX Info: Redefining \showhyphens on input line 97.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -735,7 +729,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 141.
+ 140.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
@@ -745,19 +739,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 141.
+ 140.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 141.
+ 140.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 141.
+ 140.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
@@ -769,22 +763,22 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-41.
+40.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 140.
 \@crestbox=\box66
-<figures/AU-Logo.png, id=199, 903.375pt x 674.52pt>
+<figures/AU-Logo.png, id=243, 903.375pt x 674.52pt>
 File: figures/AU-Logo.png Graphic file (type png)
 <use figures/AU-Logo.png>
-Package pdftex.def Info: figures/AU-Logo.png  used on input line 149.
+Package pdftex.def Info: figures/AU-Logo.png  used on input line 148.
 (pdftex.def)             Requested size: 180.6718pt x 134.90161pt.
  [-3
 
@@ -891,87 +885,87 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 
 ]
-<figures/TableFR1.png, id=380, 679.78969pt x 298.11375pt>
+<figures/TableFR1.png, id=439, 679.78969pt x 298.11375pt>
 File: figures/TableFR1.png Graphic file (type png)
 <use figures/TableFR1.png>
 Package pdftex.def Info: figures/TableFR1.png  used on input line 42.
 (pdftex.def)             Requested size: 341.43437pt x 149.72974pt.
-<figures/TableFR2.png, id=381, 681.29532pt x 292.09125pt>
+<figures/TableFR2.png, id=440, 681.29532pt x 292.09125pt>
 File: figures/TableFR2.png Graphic file (type png)
 <use figures/TableFR2.png>
 Package pdftex.def Info: figures/TableFR2.png  used on input line 48.
 (pdftex.def)             Requested size: 341.43437pt x 146.38397pt.
-<figures/TableFR3.png, id=382, 681.29532pt x 292.09125pt>
+<figures/TableFR3.png, id=441, 681.29532pt x 292.09125pt>
 File: figures/TableFR3.png Graphic file (type png)
 <use figures/TableFR3.png>
 Package pdftex.def Info: figures/TableFR3.png  used on input line 54.
 (pdftex.def)             Requested size: 341.43437pt x 146.38397pt.
-<figures/TableFR4.png, id=383, 684.30656pt x 293.59688pt>
+<figures/TableFR4.png, id=442, 684.30656pt x 293.59688pt>
 File: figures/TableFR4.png Graphic file (type png)
 <use figures/TableFR4.png>
 Package pdftex.def Info: figures/TableFR4.png  used on input line 60.
 (pdftex.def)             Requested size: 341.43437pt x 146.49342pt.
-<figures/TableFR5.png, id=384, 682.80093pt x 293.59688pt>
+<figures/TableFR5.png, id=443, 682.80093pt x 293.59688pt>
 File: figures/TableFR5.png Graphic file (type png)
 <use figures/TableFR5.png>
 Package pdftex.def Info: figures/TableFR5.png  used on input line 66.
 (pdftex.def)             Requested size: 341.43437pt x 146.81598pt.
-<figures/TableFR6.png, id=385, 683.55376pt x 298.86656pt>
+<figures/TableFR6.png, id=444, 683.55376pt x 298.86656pt>
 File: figures/TableFR6.png Graphic file (type png)
 <use figures/TableFR6.png>
 Package pdftex.def Info: figures/TableFR6.png  used on input line 72.
 (pdftex.def)             Requested size: 341.43437pt x 149.28697pt.
-<figures/TableFR7.png, id=386, 683.55376pt x 293.59688pt>
+<figures/TableFR7.png, id=445, 683.55376pt x 293.59688pt>
 File: figures/TableFR7.png Graphic file (type png)
 <use figures/TableFR7.png>
 Package pdftex.def Info: figures/TableFR7.png  used on input line 78.
 (pdftex.def)             Requested size: 341.43437pt x 146.65471pt.
-<figures/TableFR8.png, id=387, 683.55376pt x 293.59688pt>
+<figures/TableFR8.png, id=446, 683.55376pt x 293.59688pt>
 File: figures/TableFR8.png Graphic file (type png)
 <use figures/TableFR8.png>
 Package pdftex.def Info: figures/TableFR8.png  used on input line 84.
 (pdftex.def)             Requested size: 341.43437pt x 146.65471pt.
-<figures/TableFR9.png, id=388, 682.04813pt x 293.59688pt>
+<figures/TableFR9.png, id=447, 682.04813pt x 293.59688pt>
 File: figures/TableFR9.png Graphic file (type png)
 <use figures/TableFR9.png>
 Package pdftex.def Info: figures/TableFR9.png  used on input line 90.
 (pdftex.def)             Requested size: 341.43437pt x 146.97726pt.
-<figures/TableNFR1.png, id=389, 681.29532pt x 112.92188pt>
+<figures/TableNFR1.png, id=448, 681.29532pt x 112.92188pt>
 File: figures/TableNFR1.png Graphic file (type png)
 <use figures/TableNFR1.png>
 Package pdftex.def Info: figures/TableNFR1.png  used on input line 98.
 (pdftex.def)             Requested size: 341.43437pt x 56.59174pt.
-<figures/TableNFR2.png, id=390, 682.04813pt x 112.92188pt>
+<figures/TableNFR2.png, id=449, 682.04813pt x 112.92188pt>
 File: figures/TableNFR2.png Graphic file (type png)
 <use figures/TableNFR2.png>
 Package pdftex.def Info: figures/TableNFR2.png  used on input line 104.
 (pdftex.def)             Requested size: 341.43437pt x 56.52971pt.
-<figures/TableNFR3.png, id=391, 683.55376pt x 113.67468pt>
+<figures/TableNFR3.png, id=450, 683.55376pt x 113.67468pt>
 File: figures/TableNFR3.png Graphic file (type png)
 <use figures/TableNFR3.png>
 Package pdftex.def Info: figures/TableNFR3.png  used on input line 110.
 (pdftex.def)             Requested size: 341.43437pt x 56.78168pt.
-<figures/TableNFR4.png, id=392, 683.55376pt x 115.18031pt>
+<figures/TableNFR4.png, id=451, 683.55376pt x 115.18031pt>
 File: figures/TableNFR4.png Graphic file (type png)
 <use figures/TableNFR4.png>
 Package pdftex.def Info: figures/TableNFR4.png  used on input line 116.
 (pdftex.def)             Requested size: 341.43437pt x 57.53375pt.
-<figures/TableNFR5.png, id=393, 682.04813pt x 118.19156pt>
+<figures/TableNFR5.png, id=452, 682.04813pt x 118.19156pt>
 File: figures/TableNFR5.png Graphic file (type png)
 <use figures/TableNFR5.png>
 Package pdftex.def Info: figures/TableNFR5.png  used on input line 122.
 (pdftex.def)             Requested size: 341.43437pt x 59.16777pt.
-<figures/TableNFR6.png, id=394, 682.80093pt x 113.67468pt>
+<figures/TableNFR6.png, id=453, 682.80093pt x 113.67468pt>
 File: figures/TableNFR6.png Graphic file (type png)
 <use figures/TableNFR6.png>
 Package pdftex.def Info: figures/TableNFR6.png  used on input line 128.
 (pdftex.def)             Requested size: 341.43437pt x 56.84413pt.
-<figures/TableNFR7.png, id=395, 679.78969pt x 112.16907pt>
+<figures/TableNFR7.png, id=454, 679.78969pt x 112.16907pt>
 File: figures/TableNFR7.png Graphic file (type png)
 <use figures/TableNFR7.png>
 Package pdftex.def Info: figures/TableNFR7.png  used on input line 134.
 (pdftex.def)             Requested size: 341.43437pt x 56.33769pt.
-<figures/UseCaseDiagram.png, id=396, 726.3135pt x 549.252pt>
+<figures/UseCaseDiagram.png, id=455, 726.3135pt x 549.252pt>
 File: figures/UseCaseDiagram.png Graphic file (type png)
 <use figures/UseCaseDiagram.png>
 Package pdftex.def Info: figures/UseCaseDiagram.png  used on input line 140.
@@ -981,57 +975,57 @@ Overfull \hbox (85.35696pt too wide) in paragraph at lines 140--141
  [] 
  []
 
-<figures/TableUC1.png, id=397, 441.90094pt x 314.67563pt>
+<figures/TableUC1.png, id=456, 441.90094pt x 314.67563pt>
 File: figures/TableUC1.png Graphic file (type png)
 <use figures/TableUC1.png>
 Package pdftex.def Info: figures/TableUC1.png  used on input line 149.
 (pdftex.def)             Requested size: 341.43437pt x 243.14604pt.
-<figures/TableUC2.png, id=398, 441.90094pt x 313.17pt>
+<figures/TableUC2.png, id=457, 441.90094pt x 313.17pt>
 File: figures/TableUC2.png Graphic file (type png)
 <use figures/TableUC2.png>
 Package pdftex.def Info: figures/TableUC2.png  used on input line 154.
 (pdftex.def)             Requested size: 341.43437pt x 241.98267pt.
-<figures/TableUC3.png, id=399, 441.90094pt x 312.41719pt>
+<figures/TableUC3.png, id=458, 441.90094pt x 312.41719pt>
 File: figures/TableUC3.png Graphic file (type png)
 <use figures/TableUC3.png>
 Package pdftex.def Info: figures/TableUC3.png  used on input line 160.
 (pdftex.def)             Requested size: 341.43437pt x 241.40097pt.
-<figures/TableUC4.png, id=400, 442.65375pt x 313.9228pt>
+<figures/TableUC4.png, id=459, 442.65375pt x 313.9228pt>
 File: figures/TableUC4.png Graphic file (type png)
 <use figures/TableUC4.png>
 Package pdftex.def Info: figures/TableUC4.png  used on input line 166.
 (pdftex.def)             Requested size: 341.43437pt x 242.1524pt.
-<figures/TableUC5.png, id=401, 442.65375pt x 313.17pt>
+<figures/TableUC5.png, id=460, 442.65375pt x 313.17pt>
 File: figures/TableUC5.png Graphic file (type png)
 <use figures/TableUC5.png>
 Package pdftex.def Info: figures/TableUC5.png  used on input line 172.
 (pdftex.def)             Requested size: 341.43437pt x 241.5717pt.
-<figures/TableUC6.png, id=402, 442.65375pt x 313.17pt>
+<figures/TableUC6.png, id=461, 442.65375pt x 313.17pt>
 File: figures/TableUC6.png Graphic file (type png)
 <use figures/TableUC6.png>
 Package pdftex.def Info: figures/TableUC6.png  used on input line 178.
 (pdftex.def)             Requested size: 341.43437pt x 241.5717pt.
-<figures/TableUC7.png, id=403, 441.14813pt x 318.43968pt>
+<figures/TableUC7.png, id=462, 441.14813pt x 318.43968pt>
 File: figures/TableUC7.png Graphic file (type png)
 <use figures/TableUC7.png>
 Package pdftex.def Info: figures/TableUC7.png  used on input line 184.
 (pdftex.def)             Requested size: 341.43437pt x 246.47237pt.
-<figures/TableUC8.png, id=404, 441.14813pt x 312.41719pt>
+<figures/TableUC8.png, id=463, 441.14813pt x 312.41719pt>
 File: figures/TableUC8.png Graphic file (type png)
 <use figures/TableUC8.png>
 Package pdftex.def Info: figures/TableUC8.png  used on input line 190.
 (pdftex.def)             Requested size: 341.43437pt x 241.81094pt.
-<figures/TableUC9.png, id=405, 442.65375pt x 313.17pt>
+<figures/TableUC9.png, id=464, 442.65375pt x 313.17pt>
 File: figures/TableUC9.png Graphic file (type png)
 <use figures/TableUC9.png>
 Package pdftex.def Info: figures/TableUC9.png  used on input line 196.
 (pdftex.def)             Requested size: 341.43437pt x 241.5717pt.
-<figures/TableUC10.png, id=406, 442.65375pt x 313.9228pt>
+<figures/TableUC10.png, id=465, 442.65375pt x 313.9228pt>
 File: figures/TableUC10.png Graphic file (type png)
 <use figures/TableUC10.png>
 Package pdftex.def Info: figures/TableUC10.png  used on input line 202.
 (pdftex.def)             Requested size: 341.43437pt x 242.1524pt.
-<figures/TableUC11.png, id=407, 441.14813pt x 314.67563pt>
+<figures/TableUC11.png, id=466, 441.14813pt x 314.67563pt>
 File: figures/TableUC11.png Graphic file (type png)
 <use figures/TableUC11.png>
 Package pdftex.def Info: figures/TableUC11.png  used on input line 208.
@@ -1050,7 +1044,7 @@ png> <./figures/TableUC10.png>] [18 <./figures/TableUC11.png>]
 
  (chapter4.tex
 Chapter 4.
-<figures/SystemArchitecture.png, id=534, 679.94025pt x 396.2805pt>
+<figures/SystemArchitecture.png, id=593, 679.94025pt x 396.2805pt>
 File: figures/SystemArchitecture.png Graphic file (type png)
 <use figures/SystemArchitecture.png>
 Package pdftex.def Info: figures/SystemArchitecture.png  used on input line 11.
@@ -1061,7 +1055,7 @@ Overfull \hbox (85.35696pt too wide) in paragraph at lines 11--12
  [] 
  []
 
-<figures/SubSystem.png, id=535, 635.976pt x 518.53725pt>
+<figures/SubSystem.png, id=594, 635.976pt x 518.53725pt>
 File: figures/SubSystem.png Graphic file (type png)
 <use figures/SubSystem.png>
 Package pdftex.def Info: figures/SubSystem.png  used on input line 17.
@@ -1079,13 +1073,13 @@ Underfull \vbox (badness 1975) has occurred while \output is active []
 
 
  <./figures/SystemArchitecture.png>] [20 <./figures/SubSystem.png>]
-<figures/PackageDiagram.png, id=546, 715.92468pt x 354.57469pt>
+<figures/PackageDiagram.png, id=605, 715.92468pt x 354.57469pt>
 File: figures/PackageDiagram.png Graphic file (type png)
 <use figures/PackageDiagram.png>
 Package pdftex.def Info: figures/PackageDiagram.png  used on input line 41.
 (pdftex.def)             Requested size: 426.79135pt x 211.37762pt.
  [21 <./figures/PackageDiagram.png>]
-<figures/InteractionDiagram.png, id=552, 481.19775pt x 765.45975pt>
+<figures/InteractionDiagram.png, id=611, 481.19775pt x 765.45975pt>
 File: figures/InteractionDiagram.png Graphic file (type png)
 <use figures/InteractionDiagram.png>
 Package pdftex.def Info: figures/InteractionDiagram.png  used on input line 49.
@@ -1095,12 +1089,12 @@ Package pdftex.def Info: figures/InteractionDiagram.png  used on input line 49.
 
 LaTeX Warning: Float too large for page by 71.54439pt on input line 52.
 
-<figures/DeploymentDiagram.png, id=553, 701.019pt x 434.22224pt>
+<figures/DeploymentDiagram.png, id=612, 701.019pt x 434.22224pt>
 File: figures/DeploymentDiagram.png Graphic file (type png)
 <use figures/DeploymentDiagram.png>
 Package pdftex.def Info: figures/DeploymentDiagram.png  used on input line 57.
 (pdftex.def)             Requested size: 426.79732pt x 264.36499pt.
-<figures/LowLevelDesign.png, id=554, 589.60275pt x 504.6855pt>
+<figures/LowLevelDesign.png, id=613, 589.60275pt x 504.6855pt>
 File: figures/LowLevelDesign.png Graphic file (type png)
 <use figures/LowLevelDesign.png>
 Package pdftex.def Info: figures/LowLevelDesign.png  used on input line 78.
@@ -1110,47 +1104,47 @@ Overfull \hbox (28.4547pt too wide) in paragraph at lines 78--79
  [] 
  []
 
-<figures/S1.jpeg, id=555, 624.3325pt x 1284.8pt>
+<figures/S1.jpeg, id=614, 624.3325pt x 1284.8pt>
 File: figures/S1.jpeg Graphic file (type jpg)
 <use figures/S1.jpeg>
 Package pdftex.def Info: figures/S1.jpeg  used on input line 98.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S2.jpeg, id=556, 624.3325pt x 1284.8pt>
+<figures/S2.jpeg, id=615, 624.3325pt x 1284.8pt>
 File: figures/S2.jpeg Graphic file (type jpg)
 <use figures/S2.jpeg>
 Package pdftex.def Info: figures/S2.jpeg  used on input line 99.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S3.jpeg, id=557, 624.3325pt x 1284.8pt>
+<figures/S3.jpeg, id=616, 624.3325pt x 1284.8pt>
 File: figures/S3.jpeg Graphic file (type jpg)
 <use figures/S3.jpeg>
 Package pdftex.def Info: figures/S3.jpeg  used on input line 106.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S4.jpeg, id=558, 1445.4pt x 2971.1pt>
+<figures/S4.jpeg, id=617, 1445.4pt x 2971.1pt>
 File: figures/S4.jpeg Graphic file (type jpg)
 <use figures/S4.jpeg>
 Package pdftex.def Info: figures/S4.jpeg  used on input line 107.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
-<figures/S5.jpeg, id=559, 1445.4pt x 2971.1pt>
+<figures/S5.jpeg, id=618, 1445.4pt x 2971.1pt>
 File: figures/S5.jpeg Graphic file (type jpg)
 <use figures/S5.jpeg>
 Package pdftex.def Info: figures/S5.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
-<figures/S6.jpeg, id=560, 1445.4pt x 2971.1pt>
+<figures/S6.jpeg, id=619, 1445.4pt x 2971.1pt>
 File: figures/S6.jpeg Graphic file (type jpg)
 <use figures/S6.jpeg>
 Package pdftex.def Info: figures/S6.jpeg  used on input line 119.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
-<figures/S7.jpeg, id=561, 624.3325pt x 1284.8pt>
+<figures/S7.jpeg, id=620, 624.3325pt x 1284.8pt>
 File: figures/S7.jpeg Graphic file (type jpg)
 <use figures/S7.jpeg>
 Package pdftex.def Info: figures/S7.jpeg  used on input line 120.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S8.jpg, id=562, 1445.4pt x 2971.1pt>
+<figures/S8.jpg, id=621, 1445.4pt x 2971.1pt>
 File: figures/S8.jpg Graphic file (type jpg)
 <use figures/S8.jpg>
 Package pdftex.def Info: figures/S8.jpg  used on input line 123.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
-<figures/S9.jpeg, id=563, 1445.4pt x 2971.1pt>
+<figures/S9.jpeg, id=622, 1445.4pt x 2971.1pt>
 File: figures/S9.jpeg Graphic file (type jpg)
 <use figures/S9.jpeg>
 Package pdftex.def Info: figures/S9.jpeg  used on input line 124.
@@ -1158,22 +1152,22 @@ Package pdftex.def Info: figures/S9.jpeg  used on input line 124.
 
 LaTeX Warning: Float too large for page by 0.35191pt on input line 126.
 
-<figures/S10.jpeg, id=564, 1445.4pt x 2971.1pt>
+<figures/S10.jpeg, id=623, 1445.4pt x 2971.1pt>
 File: figures/S10.jpeg Graphic file (type jpg)
 <use figures/S10.jpeg>
 Package pdftex.def Info: figures/S10.jpeg  used on input line 131.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
-<figures/S11.jpeg, id=565, 624.3325pt x 1284.8pt>
+<figures/S11.jpeg, id=624, 624.3325pt x 1284.8pt>
 File: figures/S11.jpeg Graphic file (type jpg)
 <use figures/S11.jpeg>
 Package pdftex.def Info: figures/S11.jpeg  used on input line 132.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S12.jpeg, id=566, 1445.4pt x 2971.1pt>
+<figures/S12.jpeg, id=625, 1445.4pt x 2971.1pt>
 File: figures/S12.jpeg Graphic file (type jpg)
 <use figures/S12.jpeg>
 Package pdftex.def Info: figures/S12.jpeg  used on input line 135.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
-<figures/S13.jpg, id=567, 624.3325pt x 1284.8pt>
+<figures/S13.jpg, id=626, 624.3325pt x 1284.8pt>
 File: figures/S13.jpg Graphic file (type jpg)
 <use figures/S13.jpg>
 Package pdftex.def Info: figures/S13.jpg  used on input line 136.
@@ -1181,17 +1175,17 @@ Package pdftex.def Info: figures/S13.jpg  used on input line 136.
 
 LaTeX Warning: Float too large for page by 0.70847pt on input line 138.
 
-<figures/S14.jpeg, id=568, 624.3325pt x 1284.8pt>
+<figures/S14.jpeg, id=627, 624.3325pt x 1284.8pt>
 File: figures/S14.jpeg Graphic file (type jpg)
 <use figures/S14.jpeg>
 Package pdftex.def Info: figures/S14.jpeg  used on input line 142.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S15.jpeg, id=569, 624.3325pt x 1284.8pt>
+<figures/S15.jpeg, id=628, 624.3325pt x 1284.8pt>
 File: figures/S15.jpeg Graphic file (type jpg)
 <use figures/S15.jpeg>
 Package pdftex.def Info: figures/S15.jpeg  used on input line 143.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
-<figures/S16.jpeg, id=570, 1445.4pt x 2971.1pt>
+<figures/S16.jpeg, id=629, 1445.4pt x 2971.1pt>
 File: figures/S16.jpeg Graphic file (type jpg)
 <use figures/S16.jpeg>
 Package pdftex.def Info: figures/S16.jpeg  used on input line 149.
@@ -1203,76 +1197,76 @@ ure.4.7.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                          <./figures/S3.jpeg> <./figures/S4.jpeg> <./figures/S5.
 jpeg>] [27pdfTeX warning (ext4): destination with the same identifier (name{sub
 figure.4.7.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                          <./figures/S6.jpeg> <./figures/S7.jpeg> <./figures/S8.
 jpg> <./figures/S9.jpeg>] [28pdfTeX warning (ext4): destination with the same i
 dentifier (name{subfigure.4.7.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                          <./figures/S10.jpeg> <./figures/S11.jpeg> <./figures/S
 12.jpeg> <./figures/S13.jpg>] [29pdfTeX warning (ext4): destination with the sa
 me identifier (name{subfigure.4.7.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{subfigure.4.7.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.180 \include{chapter4}
+l.179 \include{chapter4}
                          <./figures/S14.jpeg> <./figures/S15.jpeg> <./figures/S
 16.jpeg>]
 \openout2 = `chapter5.aux'.
@@ -1284,84 +1278,94 @@ l.180 \include{chapter4}
 
 ]
 Chapter 5.
-) [31]
+<figures/SystemArchitectureCH5.png, id=684, 701.019pt x 506.49225pt>
+File: figures/SystemArchitectureCH5.png Graphic file (type png)
+<use figures/SystemArchitectureCH5.png>
+Package pdftex.def Info: figures/SystemArchitectureCH5.png  used on input line 
+11.
+(pdftex.def)             Requested size: 341.43437pt x 246.69179pt.
+
+Underfull \vbox (badness 6188) has occurred while \output is active []
+
+ [31 <./figures/SystemArchitectureCH5.png>] [32] [33]
+<figures/DB.jpg, id=699, 648.17157pt x 271.0125pt>
+File: figures/DB.jpg Graphic file (type jpg)
+<use figures/DB.jpg>
+Package pdftex.def Info: figures/DB.jpg  used on input line 85.
+(pdftex.def)             Requested size: 512.14832pt x 214.15128pt.
+
+Overfull \hbox (85.35696pt too wide) in paragraph at lines 85--86
+ [] 
+ []
+
+[34 <./figures/DB.jpg>] [35]) [36]
 \openout2 = `chapter6.aux'.
 
- (chapter6.tex [32
-
-
-
-]
+ (chapter6.tex
 Chapter 6.
-) [33] [34]
+) [37
+
+
+
+] [38]
 \openout2 = `chapter7.aux'.
 
  (chapter7.tex
 Chapter 7.
-) [35
+) [39
 
 
 
 ]
 \openout2 = `appendix1.aux'.
 
- (appendix1.tex [36
+ (appendix1.tex [40
 
 
 
 ]
 Appendix A.
-) [37] [38
+) [41] [42
 
 
 ] (thesis.bbl (thesis.brf)
 \tf@brf=\write9
 \openout9 = `thesis.brf'.
 
-) [39
+) [43
 
-] [40
+] [44
 
 ] (thesis.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
  (thesis.aux
 (abstract.aux) (acknows.aux) (quote.aux) (abbrevs.aux) (chapter1.aux)
 (chapter2.aux) (chapter3.aux) (chapter4.aux) (chapter5.aux) (chapter6.aux)
 (chapter7.aux) (appendix1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
-
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 68D9DADAB819842603049DF9070A3D7E;3327
-(rerunfilecheck)             After:  3923AA6F80208A4676CD274F3F51E078;3327.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 292FB31CA3F72EE2A7B50D895DA84EA0;4111.
 Package rerunfilecheck Info: File `thesis.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
- 14018 strings out of 480797
- 223110 string characters out of 2905362
- 631546 words of memory out of 3000000
- 29216 multiletter control sequences out of 15000+200000
- 606813 words of font info for 207 fonts, out of 3000000 for 9000
+ 14064 strings out of 480797
+ 223940 string characters out of 2905362
+ 631745 words of memory out of 3000000
+ 29248 multiletter control sequences out of 15000+200000
+ 606683 words of font info for 205 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,11n,54p,1573b,572s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utm
 r8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (58 pages, 2618504 bytes).
+Output written on thesis.pdf (62 pages, 2716314 bytes).
 PDF statistics:
- 733 PDF objects out of 1000 (max. 8388607)
- 203 named destinations out of 1000 (max. 500000)
- 43656 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 817 PDF objects out of 1000 (max. 8388607)
+ 220 named destinations out of 1000 (max. 500000)
+ 43754 words of extra memory for PDF output out of 51595 (max. 10000000)
 
