@@ -1,9 +1,31 @@
 \babel@toc {english}{}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Use Case Diagram\relax }}{12}{figure.caption.27}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagram\relax }}{12}{figure.caption.28}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Use Case Diagram\relax }}{19}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Sub System\relax }}{20}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Package Diagram\relax }}{21}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Package Diagram\relax }}{22}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Deployment Diagram\relax }}{23}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Low Level Design\relax }}{24}{figure.caption.48}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Welcome Screen}}}{25}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Login Screen}}}{25}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Signup Screen}}}{26}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Forgot Password Screen}}}{26}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Select User Type Screen}}}{26}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Enter Ride Detail Screen}}}{27}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Map Screen}}}{27}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Driver Detail Screen}}}{27}{subfigure.7.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Ride Summary Screen}}}{27}{subfigure.7.4}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Enter Vehicle Detail Screen}}}{28}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Driver Map Screen}}}{28}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rider List Screen}}}{28}{subfigure.7.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Popup Selection Confirmation Screen}}}{28}{subfigure.7.4}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Selected Passengers Screen}}}{29}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Passengers Pickup Points Screen}}}{29}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Driver Summary Screen}}}{29}{subfigure.7.1}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
