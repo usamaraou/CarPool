@@ -2,33 +2,33 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagram\relax }}{12}{figure.caption.28}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Use Case Diagram\relax }}{11}{figure.caption.27}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Context Diagram\relax }}{19}{figure.caption.41}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Sub System\relax }}{20}{figure.caption.42}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Package Diagram\relax }}{21}{figure.caption.43}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Process Interaction Diagram\relax }}{22}{figure.caption.44}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Deployment Diagram\relax }}{23}{figure.caption.45}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Low Level Design\relax }}{24}{figure.caption.48}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Welcome Screen}}}{25}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Login Screen}}}{25}{subfigure.7.2}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Signup Screen}}}{26}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Forgot Password Screen}}}{26}{subfigure.7.2}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Select User Type Screen}}}{26}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Enter Ride Detail Screen}}}{27}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Map Screen}}}{27}{subfigure.7.2}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Driver Detail Screen}}}{27}{subfigure.7.3}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Ride Summary Screen}}}{27}{subfigure.7.4}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Enter Vehicle Detail Screen}}}{28}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Driver Map Screen}}}{28}{subfigure.7.2}%
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rider List Screen}}}{28}{subfigure.7.3}%
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Popup Selection Confirmation Screen}}}{28}{subfigure.7.4}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Selected Passengers Screen}}}{29}{subfigure.7.1}%
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Passengers Pickup Points Screen}}}{29}{subfigure.7.2}%
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Driver Summary Screen}}}{29}{subfigure.7.1}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Context Diagram\relax }}{18}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Sub System\relax }}{19}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Package Diagram\relax }}{20}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Process Interaction Diagram\relax }}{21}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Deployment Diagram\relax }}{22}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Low Level Design\relax }}{23}{figure.caption.47}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Welcome Screen}}}{24}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Login Screen}}}{24}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Signup Screen}}}{25}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Forgot Password Screen}}}{25}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Select User Type Screen}}}{25}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Enter Ride Detail Screen}}}{26}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Map Screen}}}{26}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Driver Detail Screen}}}{26}{subfigure.7.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Ride Summary Screen}}}{26}{subfigure.7.4}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Enter Vehicle Detail Screen}}}{27}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Driver Map Screen}}}{27}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rider List Screen}}}{27}{subfigure.7.3}%
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Popup Selection Confirmation Screen}}}{27}{subfigure.7.4}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Selected Passengers Screen}}}{28}{subfigure.7.1}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Passengers Pickup Points Screen}}}{28}{subfigure.7.2}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Driver Summary Screen}}}{28}{subfigure.7.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces System Architecture\relax }}{31}{figure.caption.59}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Example of a user mode in database\relax }}{34}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces System Architecture\relax }}{29}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Example of a user mode in database\relax }}{32}{figure.caption.59}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

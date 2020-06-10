@@ -11,7 +11,8 @@
 %%           pdflatex tese
 %%========================================
 
-\documentclass[11pt,a4paper,twoside,openright]{report}
+%\documentclass[11pt,a4paper,twoside,openright]{report}
+\documentclass[11pt,a4paper,oneside,openany]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 %\usepackage[portuges]{babel}
@@ -154,7 +155,7 @@ pdfauthor = {Author name},
 \begin{singlespace}
   \include{abstract} % the abstract
   \include{acknows}  % the acknowledgments
-  \include{quote}    % initial quotation if desired
+  %\include{quote}    % initial quotation if desired
   \cleardoublepage
   \pdfbookmark[0]{Table of Contents}{contents}
   \tableofcontents
@@ -164,7 +165,7 @@ pdfauthor = {Author name},
   \cleardoublepage
   \pdfbookmark[0]{List of Tables}{tables}
   \listoftables
-  \include{abbrevs}  % the list of abbreviations used
+ % \include{abbrevs}  % the list of abbreviations used
 \end{singlespace}
 
 %%----------------------------------------
