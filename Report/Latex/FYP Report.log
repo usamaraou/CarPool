@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.6)  12 JUN 2020 11:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  12 JUN 2020 22:42
 entering extended mode
 **"./FYP Report.tex"
 ("FYP Report.tex"
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-05-15>
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+L3 programming layer <2020-06-03>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
@@ -22,11 +22,10 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.sty"
 Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip49
@@ -44,25 +43,21 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip61
 \JustifyingParindent=\skip62
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2020/05/13 3.44 The Babel package
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
-"
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2020/05/13 3.44 Babel common definitions
 \babel@savecnt=\count176
 \U@D=\dimen135
-\l@babelnohyphens=\language78
+\l@babelnohyphens=\language79
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.
-def")
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@readstream=\read2
 )
 \bbl@dirlevel=\count177
@@ -70,27 +65,23 @@ def")
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\eng
-lish.ldf"
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language72) on input line 105.
+(babel)             (\language73) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language72) on input line 108.
+(babel)             (\language73) on input line 108.
 ))
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancyvrb\fancyvrb.sty"
 Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
@@ -101,44 +92,37 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \FV@StepNumber=\count180
 \FV@OutFile=\write3
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip63
 \multirow@cntb=\count181
 \multirow@dima=\skip64
 \bigstrutjot=\dimen136
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
-hics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
-ex.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen137
 \Gin@req@width=\dimen138
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count182
@@ -147,8 +131,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box46
 \rot@mess@toks=\toks18
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/slashbox\slashbox
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/slashbox\slashbox.sty"
 slashbox style by K.Yasuoka, May 1993.
 \@slashboxa=\box47
 \@slashboxb=\box48
@@ -157,20 +140,16 @@ slashbox style by K.Yasuoka, May 1993.
 \@slashboxht=\count184
 \@slashsepl=\dimen139
 \@slashsepr=\dimen140
-)
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\pict2e.sty
-"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/pict2e\pict2e.sty"
 Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\pict2e.cfg
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pict2e\pict2e.cfg"
 File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
 )
 Package pict2e Info: Driver file: pdftex.def on input line 119.
 Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\p2e-pdftex
-.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pict2e\p2e-pdftex.def"
 File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 )
 \pIIe@GRAPH=\toks19
@@ -178,7 +157,7 @@ File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
 \@arcrad=\dimen142
 \@tempdimd=\dimen143
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/soul\soul.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/soul\soul.sty"
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks20
 \SOUL@lasttoken=\toks21
@@ -190,12 +169,10 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@uldp=\dimen145
 \SOUL@ulht=\dimen146
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks25
 \symAMSa=\mathgroup4
@@ -204,12 +181,10 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip68
 \LTright=\skip69
@@ -227,33 +202,27 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@chunks=\count189
 \LT@p@ftn=\toks26
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip72
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks27
 \ex@=\dimen148
 ))
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen149
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count190
@@ -294,11 +263,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/makecell\makecell
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/makecell\makecell.sty"
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen157
 \ar@mcellbox=\box56
@@ -312,8 +280,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \c@nlinenum=\count268
 \TeXr@lab=\toks33
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
 \wrapoverhang=\dimen160
 \WF@size=\dimen161
 \c@WF@wrappedlines=\count269
@@ -321,20 +288,19 @@ ty"
 \WF@everypar=\toks34
 Package: wrapfig 2003/01/31  v 3.6
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count270
 \float@exts=\toks35
 \float@box=\box59
 \@float@everytoks=\toks36
 \@floatcapt=\box60
-) ("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.s
-ty"
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.
-sty"
-Package: caption3 2020/05/30 v1.12 caption3 kernel (AR)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen162
 \captionmargin@=\dimen163
@@ -359,16 +325,13 @@ Package caption Info: Standard document class detected.
 \sf@top=\skip80
 \sf@bottom=\skip81
 )
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count278
@@ -384,16 +347,15 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen177
 \Gm@dimlist=\toks37
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
-.cfg"))
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backe
-nd-pdfmode.def"
-File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count281
 \l__pdf_internal_box=\box61
-) ("FYP Report.aux" (Abstract.aux) (Acknowledgement.aux)
-(Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux) (Chapter5.aux)
-(Chapter6.aux) (Chapter7.aux) (Appendix1.aux))
+)
+("FYP Report.aux" (Abstract.aux) (Acknowledgement.aux) (Chapter1.aux)
+(Chapter2.aux) (Chapter3.aux) (Chapter4.aux) (Chapter5.aux) (Chapter6.aux)
+(Chapter7.aux) (Appendix1.aux))
 \openout1 = `"FYP Report.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -410,12 +372,10 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
-
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 28.
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
-pdf.mkii"
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count282
 \scratchdimen=\dimen178
@@ -428,9 +388,7 @@ pdf.mkii"
 \MPnumerator=\count286
 \makeMPintoPDFobject=\count287
 \everyMPtoPDFconversion=\toks39
-)
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
-opdf-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
@@ -480,18 +438,19 @@ Package pdftex.def Info: Figures/AU-Logo.png  used on input line 66.
 (pdftex.def)             Requested size: 213.39568pt x 159.3356pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 66.
 
-("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 66.
 
- ("C:\Users\malikS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
-"
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/malikS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/
-AU-Logo.png>] [1
+{C:/Users/usama/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/A
+U-Logo.png>]
+[1
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
@@ -580,142 +539,142 @@ Chapter 3.
 <Figures/TableFR1.png, id=59, 679.78969pt x 298.11375pt>
 File: Figures/TableFR1.png Graphic file (type png)
 <use Figures/TableFR1.png>
-Package pdftex.def Info: Figures/TableFR1.png  used on input line 41.
+Package pdftex.def Info: Figures/TableFR1.png  used on input line 42.
 (pdftex.def)             Requested size: 341.43437pt x 149.72974pt.
 <Figures/TableFR2.png, id=60, 681.29532pt x 292.09125pt>
 File: Figures/TableFR2.png Graphic file (type png)
 <use Figures/TableFR2.png>
-Package pdftex.def Info: Figures/TableFR2.png  used on input line 47.
+Package pdftex.def Info: Figures/TableFR2.png  used on input line 48.
 (pdftex.def)             Requested size: 341.43437pt x 146.38397pt.
 <Figures/TableFR3.png, id=61, 681.29532pt x 292.09125pt>
 File: Figures/TableFR3.png Graphic file (type png)
 <use Figures/TableFR3.png>
-Package pdftex.def Info: Figures/TableFR3.png  used on input line 53.
+Package pdftex.def Info: Figures/TableFR3.png  used on input line 54.
 (pdftex.def)             Requested size: 341.43437pt x 146.38397pt.
 <Figures/TableFR4.png, id=62, 684.30656pt x 293.59688pt>
 File: Figures/TableFR4.png Graphic file (type png)
 <use Figures/TableFR4.png>
-Package pdftex.def Info: Figures/TableFR4.png  used on input line 59.
+Package pdftex.def Info: Figures/TableFR4.png  used on input line 60.
 (pdftex.def)             Requested size: 341.43437pt x 146.49342pt.
 <Figures/TableFR5.png, id=63, 682.80093pt x 293.59688pt>
 File: Figures/TableFR5.png Graphic file (type png)
 <use Figures/TableFR5.png>
-Package pdftex.def Info: Figures/TableFR5.png  used on input line 65.
+Package pdftex.def Info: Figures/TableFR5.png  used on input line 66.
 (pdftex.def)             Requested size: 341.43437pt x 146.81598pt.
 <Figures/TableFR6.png, id=64, 683.55376pt x 298.86656pt>
 File: Figures/TableFR6.png Graphic file (type png)
 <use Figures/TableFR6.png>
-Package pdftex.def Info: Figures/TableFR6.png  used on input line 71.
+Package pdftex.def Info: Figures/TableFR6.png  used on input line 72.
 (pdftex.def)             Requested size: 341.43437pt x 149.28697pt.
 <Figures/TableFR7.png, id=65, 683.55376pt x 293.59688pt>
 File: Figures/TableFR7.png Graphic file (type png)
 <use Figures/TableFR7.png>
-Package pdftex.def Info: Figures/TableFR7.png  used on input line 77.
+Package pdftex.def Info: Figures/TableFR7.png  used on input line 78.
 (pdftex.def)             Requested size: 341.43437pt x 146.65471pt.
 <Figures/TableFR8.png, id=66, 683.55376pt x 293.59688pt>
 File: Figures/TableFR8.png Graphic file (type png)
 <use Figures/TableFR8.png>
-Package pdftex.def Info: Figures/TableFR8.png  used on input line 83.
+Package pdftex.def Info: Figures/TableFR8.png  used on input line 84.
 (pdftex.def)             Requested size: 341.43437pt x 146.65471pt.
 <Figures/TableFR9.png, id=67, 682.04813pt x 293.59688pt>
 File: Figures/TableFR9.png Graphic file (type png)
 <use Figures/TableFR9.png>
-Package pdftex.def Info: Figures/TableFR9.png  used on input line 89.
+Package pdftex.def Info: Figures/TableFR9.png  used on input line 90.
 (pdftex.def)             Requested size: 341.43437pt x 146.97726pt.
 <Figures/TableNFR1.png, id=68, 681.29532pt x 112.92188pt>
 File: Figures/TableNFR1.png Graphic file (type png)
 <use Figures/TableNFR1.png>
-Package pdftex.def Info: Figures/TableNFR1.png  used on input line 97.
+Package pdftex.def Info: Figures/TableNFR1.png  used on input line 98.
 (pdftex.def)             Requested size: 341.43437pt x 56.59174pt.
 <Figures/TableNFR2.png, id=69, 682.04813pt x 112.92188pt>
 File: Figures/TableNFR2.png Graphic file (type png)
 <use Figures/TableNFR2.png>
-Package pdftex.def Info: Figures/TableNFR2.png  used on input line 103.
+Package pdftex.def Info: Figures/TableNFR2.png  used on input line 104.
 (pdftex.def)             Requested size: 341.43437pt x 56.52971pt.
 <Figures/TableNFR3.png, id=70, 683.55376pt x 113.67468pt>
 File: Figures/TableNFR3.png Graphic file (type png)
 <use Figures/TableNFR3.png>
-Package pdftex.def Info: Figures/TableNFR3.png  used on input line 109.
+Package pdftex.def Info: Figures/TableNFR3.png  used on input line 110.
 (pdftex.def)             Requested size: 341.43437pt x 56.78168pt.
 <Figures/TableNFR4.png, id=71, 683.55376pt x 115.18031pt>
 File: Figures/TableNFR4.png Graphic file (type png)
 <use Figures/TableNFR4.png>
-Package pdftex.def Info: Figures/TableNFR4.png  used on input line 115.
+Package pdftex.def Info: Figures/TableNFR4.png  used on input line 116.
 (pdftex.def)             Requested size: 341.43437pt x 57.53375pt.
 <Figures/TableNFR5.png, id=72, 682.04813pt x 118.19156pt>
 File: Figures/TableNFR5.png Graphic file (type png)
 <use Figures/TableNFR5.png>
-Package pdftex.def Info: Figures/TableNFR5.png  used on input line 121.
+Package pdftex.def Info: Figures/TableNFR5.png  used on input line 122.
 (pdftex.def)             Requested size: 341.43437pt x 59.16777pt.
 <Figures/TableNFR6.png, id=73, 682.80093pt x 113.67468pt>
 File: Figures/TableNFR6.png Graphic file (type png)
 <use Figures/TableNFR6.png>
-Package pdftex.def Info: Figures/TableNFR6.png  used on input line 127.
+Package pdftex.def Info: Figures/TableNFR6.png  used on input line 128.
 (pdftex.def)             Requested size: 341.43437pt x 56.84413pt.
 <Figures/TableNFR7.png, id=74, 679.78969pt x 112.16907pt>
 File: Figures/TableNFR7.png Graphic file (type png)
 <use Figures/TableNFR7.png>
-Package pdftex.def Info: Figures/TableNFR7.png  used on input line 133.
+Package pdftex.def Info: Figures/TableNFR7.png  used on input line 134.
 (pdftex.def)             Requested size: 341.43437pt x 56.33769pt.
 <Figures/UseCaseDiagram.png, id=75, 726.3135pt x 549.252pt>
 File: Figures/UseCaseDiagram.png Graphic file (type png)
 <use Figures/UseCaseDiagram.png>
-Package pdftex.def Info: Figures/UseCaseDiagram.png  used on input line 139.
+Package pdftex.def Info: Figures/UseCaseDiagram.png  used on input line 140.
 (pdftex.def)             Requested size: 426.79135pt x 322.75684pt.
 <Figures/TableUC1.png, id=76, 441.90094pt x 314.67563pt>
 File: Figures/TableUC1.png Graphic file (type png)
 <use Figures/TableUC1.png>
-Package pdftex.def Info: Figures/TableUC1.png  used on input line 148.
+Package pdftex.def Info: Figures/TableUC1.png  used on input line 149.
 (pdftex.def)             Requested size: 341.43437pt x 243.14604pt.
 <Figures/TableUC2.png, id=77, 441.90094pt x 313.17pt>
 File: Figures/TableUC2.png Graphic file (type png)
 <use Figures/TableUC2.png>
-Package pdftex.def Info: Figures/TableUC2.png  used on input line 153.
+Package pdftex.def Info: Figures/TableUC2.png  used on input line 154.
 (pdftex.def)             Requested size: 341.43437pt x 241.98267pt.
 <Figures/TableUC3.png, id=78, 441.90094pt x 312.41719pt>
 File: Figures/TableUC3.png Graphic file (type png)
 <use Figures/TableUC3.png>
-Package pdftex.def Info: Figures/TableUC3.png  used on input line 159.
+Package pdftex.def Info: Figures/TableUC3.png  used on input line 160.
 (pdftex.def)             Requested size: 341.43437pt x 241.40097pt.
 <Figures/TableUC4.png, id=79, 442.65375pt x 313.9228pt>
 File: Figures/TableUC4.png Graphic file (type png)
 <use Figures/TableUC4.png>
-Package pdftex.def Info: Figures/TableUC4.png  used on input line 165.
+Package pdftex.def Info: Figures/TableUC4.png  used on input line 166.
 (pdftex.def)             Requested size: 341.43437pt x 242.1524pt.
 <Figures/TableUC5.png, id=80, 442.65375pt x 313.17pt>
 File: Figures/TableUC5.png Graphic file (type png)
 <use Figures/TableUC5.png>
-Package pdftex.def Info: Figures/TableUC5.png  used on input line 171.
+Package pdftex.def Info: Figures/TableUC5.png  used on input line 172.
 (pdftex.def)             Requested size: 341.43437pt x 241.5717pt.
 <Figures/TableUC6.png, id=81, 442.65375pt x 313.17pt>
 File: Figures/TableUC6.png Graphic file (type png)
 <use Figures/TableUC6.png>
-Package pdftex.def Info: Figures/TableUC6.png  used on input line 177.
+Package pdftex.def Info: Figures/TableUC6.png  used on input line 178.
 (pdftex.def)             Requested size: 341.43437pt x 241.5717pt.
 <Figures/TableUC7.png, id=82, 441.14813pt x 318.43968pt>
 File: Figures/TableUC7.png Graphic file (type png)
 <use Figures/TableUC7.png>
-Package pdftex.def Info: Figures/TableUC7.png  used on input line 183.
+Package pdftex.def Info: Figures/TableUC7.png  used on input line 184.
 (pdftex.def)             Requested size: 341.43437pt x 246.47237pt.
 <Figures/TableUC8.png, id=83, 441.14813pt x 312.41719pt>
 File: Figures/TableUC8.png Graphic file (type png)
 <use Figures/TableUC8.png>
-Package pdftex.def Info: Figures/TableUC8.png  used on input line 189.
+Package pdftex.def Info: Figures/TableUC8.png  used on input line 190.
 (pdftex.def)             Requested size: 341.43437pt x 241.81094pt.
 <Figures/TableUC9.png, id=84, 442.65375pt x 313.17pt>
 File: Figures/TableUC9.png Graphic file (type png)
 <use Figures/TableUC9.png>
-Package pdftex.def Info: Figures/TableUC9.png  used on input line 195.
+Package pdftex.def Info: Figures/TableUC9.png  used on input line 196.
 (pdftex.def)             Requested size: 341.43437pt x 241.5717pt.
 <Figures/TableUC10.png, id=85, 442.65375pt x 313.9228pt>
 File: Figures/TableUC10.png Graphic file (type png)
 <use Figures/TableUC10.png>
-Package pdftex.def Info: Figures/TableUC10.png  used on input line 201.
+Package pdftex.def Info: Figures/TableUC10.png  used on input line 202.
 (pdftex.def)             Requested size: 341.43437pt x 242.1524pt.
 <Figures/TableUC11.png, id=86, 441.14813pt x 314.67563pt>
 File: Figures/TableUC11.png Graphic file (type png)
 <use Figures/TableUC11.png>
-Package pdftex.def Info: Figures/TableUC11.png  used on input line 207.
+Package pdftex.def Info: Figures/TableUC11.png  used on input line 208.
 (pdftex.def)             Requested size: 341.43437pt x 243.55898pt.
 ) [7 <./Figures/TableFR1.png> <./Figures/TableFR2.png>] [8 <./Figures/TableFR3.
 png> <./Figures/TableFR4.png> <./Figures/TableFR5.png>] [9 <./Figures/TableFR6.
@@ -892,7 +851,13 @@ Package pdftex.def Info: Figures/SystemArchitectureCH5.png  used on input line
 
 
 
- <./Figures/SystemArchitectureCH5.png>] [30] [31]
+ <./Figures/SystemArchitectureCH5.png>]
+Overfull \hbox (3.02403pt too wide) in paragraph at lines 57--59
+[]\OT1/cmr/bx/n/12 Firebase Real-time Database \OT1/cmr/m/n/12 : this frame-wor
+k is used as our main Database
+ []
+
+[30] [31]
 <Figures/DB.jpg, id=218, 648.17157pt x 271.0125pt>
 File: Figures/DB.jpg Graphic file (type jpg)
 <use Figures/DB.jpg>
@@ -985,21 +950,20 @@ Appendix A.
 (Chapter2.aux) (Chapter3.aux) (Chapter4.aux) (Chapter5.aux) (Chapter6.aux)
 (Chapter7.aux) (Appendix1.aux)) ) 
 Here is how much of TeX's memory you used:
- 6402 strings out of 480799
- 98096 string characters out of 2895318
- 357847 words of memory out of 3000000
- 22222 multiletter control sequences out of 15000+200000
+ 6405 strings out of 480797
+ 95443 string characters out of 2905362
+ 357881 words of memory out of 3000000
+ 22224 multiletter control sequences out of 15000+200000
  542658 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,54p,1563b,356s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\malikS\AppData\Local\MiKTeX\2.9\fon
-ts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/malikS/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/malikS/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Us
-ers/malikS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-10.pfb><C:/Users/malikS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr12.pfb>
-Output written on "FYP Report.pdf" (52 pages, 2818248 bytes).
+ 38i,10n,54p,1563b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\usama\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr12.pfb>
+Output written on "FYP Report.pdf" (52 pages, 2820660 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
