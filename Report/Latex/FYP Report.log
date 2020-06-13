@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  13 JUN 2020 06:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  13 JUN 2020 08:57
 entering extended mode
 **"./FYP Report.tex"
 ("FYP Report.tex"
@@ -733,120 +733,120 @@ Package pdftex.def Info: Figures/DeploymentDiagram.png  used on input line 52.
 <Figures/LowLevelDesign.png, id=160, 589.60275pt x 504.6855pt>
 File: Figures/LowLevelDesign.png Graphic file (type png)
 <use Figures/LowLevelDesign.png>
-Package pdftex.def Info: Figures/LowLevelDesign.png  used on input line 60.
+Package pdftex.def Info: Figures/LowLevelDesign.png  used on input line 89.
 (pdftex.def)             Requested size: 455.24605pt x 389.67946pt.
 
-Overfull \hbox (28.4547pt too wide) in paragraph at lines 60--61
+Overfull \hbox (28.4547pt too wide) in paragraph at lines 89--90
 [] 
  []
 
 <Figures/S1.jpeg, id=161, 624.3325pt x 1284.8pt>
 File: Figures/S1.jpeg Graphic file (type jpg)
 <use Figures/S1.jpeg>
-Package pdftex.def Info: Figures/S1.jpeg  used on input line 80.
+Package pdftex.def Info: Figures/S1.jpeg  used on input line 109.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 <Figures/S2.jpeg, id=162, 624.3325pt x 1284.8pt>
 File: Figures/S2.jpeg Graphic file (type jpg)
 <use Figures/S2.jpeg>
-Package pdftex.def Info: Figures/S2.jpeg  used on input line 89.
+Package pdftex.def Info: Figures/S2.jpeg  used on input line 118.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 <Figures/S3.jpeg, id=163, 624.3325pt x 1284.8pt>
 File: Figures/S3.jpeg Graphic file (type jpg)
 <use Figures/S3.jpeg>
-Package pdftex.def Info: Figures/S3.jpeg  used on input line 90.
+Package pdftex.def Info: Figures/S3.jpeg  used on input line 119.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 <Figures/S4.jpeg, id=164, 1445.4pt x 2971.1pt>
 File: Figures/S4.jpeg Graphic file (type jpg)
 <use Figures/S4.jpeg>
-Package pdftex.def Info: Figures/S4.jpeg  used on input line 96.
+Package pdftex.def Info: Figures/S4.jpeg  used on input line 125.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S5.jpeg, id=165, 1445.4pt x 2971.1pt>
 File: Figures/S5.jpeg Graphic file (type jpg)
 <use Figures/S5.jpeg>
-Package pdftex.def Info: Figures/S5.jpeg  used on input line 103.
+Package pdftex.def Info: Figures/S5.jpeg  used on input line 132.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S6.jpeg, id=166, 1445.4pt x 2971.1pt>
 File: Figures/S6.jpeg Graphic file (type jpg)
 <use Figures/S6.jpeg>
-Package pdftex.def Info: Figures/S6.jpeg  used on input line 111.
+Package pdftex.def Info: Figures/S6.jpeg  used on input line 140.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S7.jpeg, id=167, 624.3325pt x 1284.8pt>
 File: Figures/S7.jpeg Graphic file (type jpg)
 <use Figures/S7.jpeg>
-Package pdftex.def Info: Figures/S7.jpeg  used on input line 112.
+Package pdftex.def Info: Figures/S7.jpeg  used on input line 141.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 <Figures/S8.jpg, id=168, 1445.4pt x 2971.1pt>
 File: Figures/S8.jpg Graphic file (type jpg)
 <use Figures/S8.jpg>
-Package pdftex.def Info: Figures/S8.jpg  used on input line 118.
+Package pdftex.def Info: Figures/S8.jpg  used on input line 147.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S9.jpeg, id=169, 1445.4pt x 2971.1pt>
 File: Figures/S9.jpeg Graphic file (type jpg)
 <use Figures/S9.jpeg>
-Package pdftex.def Info: Figures/S9.jpeg  used on input line 119.
+Package pdftex.def Info: Figures/S9.jpeg  used on input line 148.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S10.jpeg, id=170, 1445.4pt x 2971.1pt>
 File: Figures/S10.jpeg Graphic file (type jpg)
 <use Figures/S10.jpeg>
-Package pdftex.def Info: Figures/S10.jpeg  used on input line 127.
+Package pdftex.def Info: Figures/S10.jpeg  used on input line 156.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S11.jpeg, id=171, 624.3325pt x 1284.8pt>
 File: Figures/S11.jpeg Graphic file (type jpg)
 <use Figures/S11.jpeg>
-Package pdftex.def Info: Figures/S11.jpeg  used on input line 128.
+Package pdftex.def Info: Figures/S11.jpeg  used on input line 157.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 <Figures/S12.jpeg, id=172, 1445.4pt x 2971.1pt>
 File: Figures/S12.jpeg Graphic file (type jpg)
 <use Figures/S12.jpeg>
-Package pdftex.def Info: Figures/S12.jpeg  used on input line 131.
+Package pdftex.def Info: Figures/S12.jpeg  used on input line 160.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 <Figures/S13.jpg, id=173, 624.3325pt x 1284.8pt>
 File: Figures/S13.jpg Graphic file (type jpg)
 <use Figures/S13.jpg>
-Package pdftex.def Info: Figures/S13.jpg  used on input line 132.
+Package pdftex.def Info: Figures/S13.jpg  used on input line 161.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 
-LaTeX Warning: Float too large for page by 108.13023pt on input line 134.
+LaTeX Warning: Float too large for page by 108.13023pt on input line 163.
 
 <Figures/S14.jpeg, id=174, 624.3325pt x 1284.8pt>
 File: Figures/S14.jpeg Graphic file (type jpg)
 <use Figures/S14.jpeg>
-Package pdftex.def Info: Figures/S14.jpeg  used on input line 138.
+Package pdftex.def Info: Figures/S14.jpeg  used on input line 167.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 <Figures/S15.jpeg, id=175, 624.3325pt x 1284.8pt>
 File: Figures/S15.jpeg Graphic file (type jpg)
 <use Figures/S15.jpeg>
-Package pdftex.def Info: Figures/S15.jpeg  used on input line 139.
+Package pdftex.def Info: Figures/S15.jpeg  used on input line 168.
 (pdftex.def)             Requested size: 144.54pt x 297.43863pt.
 
-Underfull \hbox (badness 3872) in paragraph at lines 139--139
+Underfull \hbox (badness 3872) in paragraph at lines 168--168
 []\OT1/cmr/m/n/10 (b) |Pas-sen-gers Pickup Points
  []
 
 <Figures/S16.jpeg, id=176, 1445.4pt x 2971.1pt>
 File: Figures/S16.jpeg Graphic file (type jpg)
 <use Figures/S16.jpeg>
-Package pdftex.def Info: Figures/S16.jpeg  used on input line 145.
+Package pdftex.def Info: Figures/S16.jpeg  used on input line 174.
 (pdftex.def)             Requested size: 144.54pt x 297.08208pt.
 ) [20 <./Figures/SubSystem.png>] [21 <./Figures/PackageDiagram.png>] [22 <./Fig
 ures/InteractionDiagram.png>] [23 <./Figures/DeploymentDiagram.png>] [24 <./Fig
-ures/LowLevelDesign.png>] [25 <./Figures/S1.jpeg>] [26 <./Figures/S2.jpeg> <./F
-igures/S3.jpeg> <./Figures/S4.jpeg>] [27 <./Figures/S5.jpeg>] [28 <./Figures/S6
-.jpeg> <./Figures/S7.jpeg> <./Figures/S8.jpg> <./Figures/S9.jpeg>] [29 <./Figur
-es/S10.jpeg> <./Figures/S11.jpeg> <./Figures/S12.jpeg> <./Figures/S13.jpg>]
-[30 <./Figures/S14.jpeg> <./Figures/S15.jpeg> <./Figures/S16.jpeg>]
+ures/LowLevelDesign.png>] [25] [26 <./Figures/S1.jpeg>] [27 <./Figures/S2.jpeg>
+ <./Figures/S3.jpeg> <./Figures/S4.jpeg>] [28 <./Figures/S5.jpeg>] [29 <./Figur
+es/S6.jpeg> <./Figures/S7.jpeg> <./Figures/S8.jpg> <./Figures/S9.jpeg>]
+[30 <./Figures/S10.jpeg> <./Figures/S11.jpeg> <./Figures/S12.jpeg> <./Figures/S
+13.jpg>] [31 <./Figures/S14.jpeg> <./Figures/S15.jpeg> <./Figures/S16.jpeg>]
 \openout2 = `Chapter5.aux'.
 
 
 (Chapter5.tex
 Chapter 5.
-<Figures/SystemArchitectureCH5.png, id=214, 701.019pt x 506.49225pt>
+<Figures/SystemArchitectureCH5.png, id=217, 701.019pt x 506.49225pt>
 File: Figures/SystemArchitectureCH5.png Graphic file (type png)
 <use Figures/SystemArchitectureCH5.png>
 Package pdftex.def Info: Figures/SystemArchitectureCH5.png  used on input line 
 8.
 (pdftex.def)             Requested size: 341.43437pt x 246.69179pt.
-[31
+[32
 
 
 
@@ -856,8 +856,8 @@ Overfull \hbox (0.57822pt too wide) in paragraph at lines 56--57
 k is used as our main database
  []
 
-[32] [33]
-<Figures/DB.jpg, id=225, 648.17157pt x 271.0125pt>
+[33] [34]
+<Figures/DB.jpg, id=228, 648.17157pt x 271.0125pt>
 File: Figures/DB.jpg Graphic file (type jpg)
 <use Figures/DB.jpg>
 Package pdftex.def Info: Figures/DB.jpg  used on input line 80.
@@ -867,81 +867,81 @@ Overfull \hbox (85.35696pt too wide) in paragraph at lines 80--81
  [] 
  []
 
-[34 <./Figures/DB.jpg>] [35]) [36]
+[35 <./Figures/DB.jpg>] [36]) [37]
 \openout2 = `Chapter6.aux'.
 
  (Chapter6.tex
 Chapter 6.
-<Figures/UITesting1.png, id=235, 473.51906pt x 339.51843pt>
+<Figures/UITesting1.png, id=238, 473.51906pt x 339.51843pt>
 File: Figures/UITesting1.png Graphic file (type png)
 <use Figures/UITesting1.png>
 Package pdftex.def Info: Figures/UITesting1.png  used on input line 7.
 (pdftex.def)             Requested size: 341.43437pt x 244.82089pt.
-<Figures/UsabilityTesting1.png, id=236, 347.79938pt x 369.63094pt>
+<Figures/UsabilityTesting1.png, id=239, 347.79938pt x 369.63094pt>
 File: Figures/UsabilityTesting1.png Graphic file (type png)
 <use Figures/UsabilityTesting1.png>
 Package pdftex.def Info: Figures/UsabilityTesting1.png  used on input line 14.
 (pdftex.def)             Requested size: 341.43437pt x 362.8788pt.
-<Figures/UsabilityTesting2.png, id=237, 343.2825pt x 286.06876pt>
+<Figures/UsabilityTesting2.png, id=240, 343.2825pt x 286.06876pt>
 File: Figures/UsabilityTesting2.png Graphic file (type png)
 <use Figures/UsabilityTesting2.png>
 Package pdftex.def Info: Figures/UsabilityTesting2.png  used on input line 15.
 (pdftex.def)             Requested size: 341.43437pt x 284.52718pt.
-<Figures/UsabilityTesting3.png, id=238, 345.54094pt x 155.07938pt>
+<Figures/UsabilityTesting3.png, id=241, 345.54094pt x 155.07938pt>
 File: Figures/UsabilityTesting3.png Graphic file (type png)
 <use Figures/UsabilityTesting3.png>
 Package pdftex.def Info: Figures/UsabilityTesting3.png  used on input line 20.
 (pdftex.def)             Requested size: 341.43437pt x 153.23798pt.
-<Figures/PFTesting.png, id=239, 348.55219pt x 146.04562pt>
+<Figures/PFTesting.png, id=242, 348.55219pt x 146.04562pt>
 File: Figures/PFTesting.png Graphic file (type png)
 <use Figures/PFTesting.png>
 Package pdftex.def Info: Figures/PFTesting.png  used on input line 27.
 (pdftex.def)             Requested size: 341.43437pt x 143.07022pt.
-<Figures/CompatibilityTesting.png, id=240, 346.29375pt x 126.4725pt>
+<Figures/CompatibilityTesting.png, id=243, 346.29375pt x 126.4725pt>
 File: Figures/CompatibilityTesting.png Graphic file (type png)
 <use Figures/CompatibilityTesting.png>
 Package pdftex.def Info: Figures/CompatibilityTesting.png  used on input line 3
 4.
 (pdftex.def)             Requested size: 341.43437pt x 124.7006pt.
-<Figures/EHTesting.png, id=241, 347.04657pt x 240.14719pt>
+<Figures/EHTesting.png, id=244, 347.04657pt x 240.14719pt>
 File: Figures/EHTesting.png Graphic file (type png)
 <use Figures/EHTesting.png>
 Package pdftex.def Info: Figures/EHTesting.png  used on input line 41.
 (pdftex.def)             Requested size: 341.43437pt x 236.27336pt.
-<Figures/SecurityTesting.png, id=242, 347.04657pt x 249.18094pt>
+<Figures/SecurityTesting.png, id=245, 347.04657pt x 249.18094pt>
 File: Figures/SecurityTesting.png Graphic file (type png)
 <use Figures/SecurityTesting.png>
 Package pdftex.def Info: Figures/SecurityTesting.png  used on input line 48.
 (pdftex.def)             Requested size: 341.43437pt x 245.16139pt.
-<Figures/InstallationTesting.png, id=243, 347.79938pt x 115.93312pt>
+<Figures/InstallationTesting.png, id=246, 347.79938pt x 115.93312pt>
 File: Figures/InstallationTesting.png Graphic file (type png)
 <use Figures/InstallationTesting.png>
 Package pdftex.def Info: Figures/InstallationTesting.png  used on input line 55
 .
 (pdftex.def)             Requested size: 341.43437pt x 113.81534pt.
-) [37
+) [38
 
 
 
- <./Figures/UITesting1.png>] [38 <./Figures/UsabilityTesting1.png> <./Figures/U
-sabilityTesting2.png>] [39 <./Figures/UsabilityTesting3.png> <./Figures/PFTesti
-ng.png> <./Figures/CompatibilityTesting.png>] [40 <./Figures/EHTesting.png> <./
-Figures/SecurityTesting.png>] [41 <./Figures/InstallationTesting.png>]
+ <./Figures/UITesting1.png>] [39 <./Figures/UsabilityTesting1.png> <./Figures/U
+sabilityTesting2.png>] [40 <./Figures/UsabilityTesting3.png> <./Figures/PFTesti
+ng.png> <./Figures/CompatibilityTesting.png>] [41 <./Figures/EHTesting.png> <./
+Figures/SecurityTesting.png>] [42 <./Figures/InstallationTesting.png>]
 \openout2 = `Chapter7.aux'.
 
 
 (Chapter7.tex
 Chapter 7.
-[42
+[43
 
 
 
-]) [43]
+]) [44]
 \openout2 = `Appendix1.aux'.
 
  (Appendix1.tex
 Appendix A.
-) [44
+) [45
 
 
 
@@ -951,7 +951,7 @@ Appendix A.
 Here is how much of TeX's memory you used:
  6405 strings out of 480797
  95443 string characters out of 2905362
- 362881 words of memory out of 3000000
+ 365880 words of memory out of 3000000
  22224 multiletter control sequences out of 15000+200000
  542658 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -962,9 +962,9 @@ ype1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmr12.pfb>
-Output written on "FYP Report.pdf" (54 pages, 2824840 bytes).
+Output written on "FYP Report.pdf" (55 pages, 2826833 bytes).
 PDF statistics:
- 301 PDF objects out of 1000 (max. 8388607)
+ 305 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  311 words of extra memory for PDF output out of 10000 (max. 10000000)
 

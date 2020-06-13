@@ -55,7 +55,36 @@ The design of a project is important for the structure of the application by usi
 \end{figure}
 
 \begin{figure}
+\subsection{Modules}
+The application is divided into three modules
+\begin{itemize}
+\item User Registration
+\item Driver
+\item Rider
+\end{itemize}
+\end{figure}
 
+\begin{figure}
+\subsubsection{User Registration}
+In this module, the user must register their credentials to use this application. users should be student and currently enrolled in Air University. the user should enter the details first name, last Name, student email, university registration id, contact no, password. so user using these registration details will be able to use application. this authentication process to avoid someone malpractice as this application is verifying student details.
+\end{figure}
+
+\begin{figure}
+\subsubsection{Driver}
+In this module, the user acts as a driver. this module is consist of 8 activities which contains 2 fragments (map, passenger list), the driver can use the map fragment to see the passenger pickup points and current location and passenger list fragment to see the list of passengers. driver module also contains the activities of enter vehicle details, summary of ride.
+\end{figure}
+
+\begin{figure}
+\subsubsection{Rider}
+In this module, the user acts as a rider. this module is consist of 4 activities  which contains 2 fragments (map, driver details), the passenger can use the map fragment to see the pickup point and current location and driver detail fragment to see the detail of driver. rider module also contains the activities to enter trip detail, summary of ride.
+\end{figure}
+
+\begin{figure}
+\subsection{Security} 		
+This application should never disclose any personal information of any user, and should collect no personal information from it's own users.
+\end{figure}
+
+\begin{figure}
 \section{Low Level Design} 
 \includegraphics[width=16cm,height=25cm,keepaspectratio]{LowLevelDesign}
 \caption{Low Level Design}
