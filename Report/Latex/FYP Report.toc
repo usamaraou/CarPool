@@ -107,4 +107,6 @@
 \contentsline {chapter}{\numberline {7}Conclusions}{43}%
 \contentsline {section}{\numberline {7.1}Conclusion}{43}%
 \contentsline {section}{\numberline {7.2}Future Work}{44}%
-\contentsline {chapter}{\numberline {A}User Manual}{45}%
+\contentsline {chapter}{\numberline {A}Application Workflow}{45}%
+\contentsline {chapter}{\numberline {B}Interviews}{46}%
+\contentsline {chapter}{\numberline {C}Steeple Analysis}{48}%
