@@ -25,18 +25,19 @@ The design of a project is important for the structure of the application by usi
 \begin{itemize}
 \item Complex applications need collaboration and planning from multiple teams and hence require a clear and concise way to communicate amongst them.
 \item A lot of time is saved down the line when teams are able to visualize processes, user interactions and static structure of the system. these project designs will try and make the overall idea of the project more understandable and clear by identifying actors and functional / non-functional needs, and also all the diagrams needed to give a clear view about this project.
-
 \end{itemize}
+
+
+
+\begin{figure}
 \section{High-Level Design}
 \subsection{Conceptual or Logical: UML Package diagram} 
-
-\begin{figure}[ht]
 \center
 \includegraphics[width=1.0\textwidth]{PackageDiagram}
 \caption{Package Diagram}
 \label{fig:Package Diagram}
 \end{figure}
-\clearpage
+
 \begin{figure}
 \subsection{Process Interaction Diagram}
 \center
@@ -55,23 +56,11 @@ The design of a project is important for the structure of the application by usi
 
 \begin{figure}
 
-\subsection{Module} 
-I don’t know what to write here
-\end{figure}
-\begin{figure}
-
-\subsection{Security} 		
-
- I don’t know what to write here
-\end{figure}
-
-\begin{figure}
-
 \section{Low Level Design} 
-\center
 \includegraphics[width=16cm,height=25cm,keepaspectratio]{LowLevelDesign}
 \caption{Low Level Design}
 \label{fig:Low Level Design}
+\center
 \end{figure}
 
 \begin{figure}
@@ -84,35 +73,47 @@ Firebase platform provides a cloud-hosted realtime database. It is a NoSQL cloud
 Our application contains more than fifteen screens, different screens based on user type are:
 \end{figure}
 
-
-
 \begin{figure}
-\subsection{Login and Signup Screens}
-\hspace*{\fill}
-\subfloat[Welcome Screen]{\includegraphics[width = 2in]{S1}}\hfill 
-\subfloat[Login Screen]{\includegraphics[width = 2in]{S2}}
-\hspace*{\fill}
+\subsection{Welcome Interface}
+This is the interface that shows up to the user when he’s open the application, this interface is composed of the application’s name, a logo and a slang which describe the application alongside an “Get Started” button which lets the user to log in screen.
+\begin{center}
+\subfloat[Welcome Screen]{\includegraphics[width = 2in]{S1}}
+\end{center}
+\subsection{Authentication Interfaces}
+The authentication interface is made as simple as possible while also being very beautiful and professional, it utilizes firebase auth as a backend which allows for a secure connection to the database plus encrypted passwords for extra security, this interface also contains options to recover password in case the user has forgotten their password.
 
 \end{figure}
 
 \begin{figure}
 \hspace*{\fill}
-\subfloat[Signup Screen]{\includegraphics[width = 2in]{S3}}\hfill 
-\subfloat[Forgot Password Screen]{\includegraphics[width = 2in]{S4}}
+\subfloat[Login Screen]{\includegraphics[width = 2in]{S2}}\hfill 
+\subfloat[Signup Screen]{\includegraphics[width = 2in]{S3}}
 \hspace*{\fill}
 \end{figure}
 
 \begin{figure}
 \centering
-\subfloat[Select User Type Screen]{\includegraphics[width = 2in]{S5}}
+\subfloat[Forgot Password Screen]{\includegraphics[width = 2in]{S4}}
 \end{figure}
 
 \begin{figure}
-\subsection{Rider Screens}
+\subsection{Type Switching Interface}
+This is the interface that shows up to the user when he’s logged in into the application, this interface is composed of the application’s name and a logo alongside a switch button, which lets the user to their selected user type interface.
+\begin{center}
+\subfloat[Select User Type Screen]{\includegraphics[width = 2in]{S5}}
+\end{center}
+\subsection{Rider Interfaces}
+These interfaces are used by the passengers to post a ride details for drivers to see and select riders, these interfaces is extremely customizable and professional, by using Google Places API, Google Direction API, Google Map API in these interfaces. we have created a very organized and efficient algorithm to optimize the results when Passengers search for a driver, when rider picks an origin and a destination using Places AutoComplete API, the algorithm uses a combination of Geolocation and Places API to find the full address, city and sub city, then it converts the city into a number and saves all the information in the trip object for it to be saved into the database later.
+\end{figure}
+
+\begin{figure} 
 \hspace*{\fill}
 \subfloat[Enter Ride Detail Screen]{\includegraphics[width = 2in]{S6}}\hfill 
 \subfloat[Map Screen]{\includegraphics[width = 2in]{S7}}
-\hspace*{\fill}\\
+\hspace*{\fill}
+\end{figure}
+
+\begin{figure}
 \hspace*{\fill}
 \subfloat[Driver Detail Screen]{\includegraphics[width = 2in]{S8}}\hfill 
 \subfloat[Ride Summary Screen]{\includegraphics[width = 2in]{S9}}
@@ -120,7 +121,8 @@ Our application contains more than fifteen screens, different screens based on u
 \end{figure}
 
 \begin{figure}
-\subsection{Driver Screens}
+\subsection{Driver Interfaces}
+These interfaces are used by rider to enter vehicle detail, see and select the passengers for trip, these form is extremely customizable and professional, by using Google Places API in this interface we have created a very organized and efficient algorithm to optimize the results, When the driver select riders using Places AutoComplete API, the algorithm uses a combination of Geolocation and Places API to find the full address, city and sub city, then it converts the city into a number and saves all the information in the trip object for it to be saved into the database later.
 \hspace*{\fill}
 \subfloat[Enter Vehicle Detail Screen]{\includegraphics[width = 2in]{S10}}\hfill 
 \subfloat[Driver Map Screen]{\includegraphics[width = 2in]{S11}}
