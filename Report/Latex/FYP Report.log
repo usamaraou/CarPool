@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  13 JUN 2020 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  13 JUN 2020 12:42
 entering extended mode
 **"./FYP Report.tex"
 ("FYP Report.tex"
@@ -355,7 +355,7 @@ File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
 )
 ("FYP Report.aux" (Abstract.aux) (Acknowledgement.aux) (Chapter1.aux)
 (Chapter2.aux) (Chapter3.aux) (Chapter4.aux) (Chapter5.aux) (Chapter6.aux)
-(Chapter7.aux) (Appendix1.aux) (Appendix2.aux
+(Chapter7.aux) (Bibliography.aux) (Appendix1.aux) (Appendix2.aux
 
 LaTeX Warning: Label `ap:Appendix1' multiply defined.
 
@@ -945,11 +945,18 @@ Chapter 7.
 
 
 ]) [44]
+\openout2 = `Bibliography.aux'.
+
+ (Bibliography.tex) [45
+
+
+
+]
 \openout2 = `Appendix1.aux'.
 
  (Appendix1.tex
 Appendix A.
-) [45
+) [46
 
 
 
@@ -963,7 +970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--13
 
  []
 
-[46
+[47
 
 
 
@@ -972,31 +979,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--31
 
  []
 
-) [47]
+) [48]
 \openout2 = `Appendix3.aux'.
 
  (Appendix3.tex
 Appendix C.
-[48
+[49
 
 
 
-]) [49] [50
-
-
-] ("FYP Report.aux" (Abstract.aux) (Acknowledgement.aux)
-(Chapter1.aux) (Chapter2.aux) (Chapter3.aux) (Chapter4.aux) (Chapter5.aux)
-(Chapter6.aux) (Chapter7.aux) (Appendix1.aux) (Appendix2.aux) (Appendix3.aux))
+]) [50] ("FYP Report.aux" (Abstract.aux) (Acknowledgement.aux) (Chapter1.aux) (
+Chapter2.aux) (Chapter3.aux) (Chapter4.aux) (Chapter5.aux) (Chapter6.aux)
+(Chapter7.aux) (Bibliography.aux) (Appendix1.aux) (Appendix2.aux)
+(Appendix3.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6442 strings out of 480797
- 96244 string characters out of 2905362
- 366900 words of memory out of 3000000
- 22243 multiletter control sequences out of 15000+200000
- 543861 words of font info for 67 fonts, out of 3000000 for 9000
+ 6450 strings out of 480797
+ 96589 string characters out of 2905362
+ 367387 words of memory out of 3000000
+ 22246 multiletter control sequences out of 15000+200000
+ 543168 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,10n,54p,1562b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\usama\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -1005,12 +1010,10 @@ ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "FYP Report.pdf" (60 pages, 2863865 bytes).
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "FYP Report.pdf" (60 pages, 2842071 bytes).
 PDF statistics:
- 337 PDF objects out of 1000 (max. 8388607)
+ 329 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
