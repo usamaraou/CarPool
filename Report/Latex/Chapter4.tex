@@ -17,14 +17,15 @@
 \end{figure}
 
 \section{Design Constraints} 
-In our application we add a list of pick up points for the ease of drivers. This is made easier when clients can select pick up points and drivers reach the destination without hassle. due to the COVID-19 pandemic, we could not be supervised and guided properly. hence this process was not added and executed.
+In our application we add a list of pick up points for the ease of drivers. This is made easier when clients can select pick up points and drivers reach the destination without hassle. Due to the COVID-19 pandemic, we could not be supervised and guided properly. Hence this process was not added and executed.
+
 \section{Design Methodology}
 The design of a project is important for the structure of the application by using UML (Unified Modeling Language) which is a general purpose modelling language, that aims to define a standard way to visualize the way a system has been designed. It is quite similar to blueprints used in other fields of engineering.
 \\ \textbf{Reasons to use UML for project analysis and design are:} 
 
 \begin{itemize}
-\item Complex applications need collaboration and planning from multiple teams and hence require a clear and concise way to communicate amongst them.
-\item A lot of time is saved down the line when teams are able to visualize processes, user interactions and static structure of the system. these project designs will try and make the overall idea of the project more understandable and clear by identifying actors and functional / non-functional needs, and also all the diagrams needed to give a clear view about this project.
+\item Complex applications needs collaboration and planning, hence require a transparent and concise way to communicate amongst them.
+\item A lot of time is saved down the road when team is able to visualize the processes, user interactions and static structure of the system. These project designs will try to make the general idea of the project more understandable and clearly understandable by identifying actors and functional / non-functional requirements, and also all the diagrams provide a transparent view about this project.
 \end{itemize}
 
 
@@ -66,17 +67,17 @@ The application is divided into three modules
 
 \begin{figure}
 \subsubsection{User Registration}
-In this module, the user must register their credentials to use this application. users should be student and currently enrolled in Air University. the user should enter the details first name, last Name, student email, university registration id, contact no, password. so user using these registration details will be able to use application. this authentication process to avoid someone malpractice as this application is verifying student details.
+In this module, the user must register their credentials to use this application. Users should be student and currently enrolled in Air University. The user should enter the details first name, last Name, student email, university registration id, contact no, password. So user using these registration details will be able to use application. This authentication process to avoid someone malpractice as this application is verifying student details.
 \end{figure}
 
 \begin{figure}
 \subsubsection{Driver}
-In this module, the user acts as a driver. this module is consist of 8 activities which contains 2 fragments (map, passenger list), the driver can use the map fragment to see the passenger pickup points and current location and passenger list fragment to see the list of passengers. driver module also contains the activities of enter vehicle details, summary of ride.
+In this module, the user acts as a driver. This module is consist of 8 activities which contains 2 fragments (map, passenger list), the driver can use the map fragment to see the passenger pickup points and current location and passenger list fragment to see the list of passengers. Driver module also contains the activities of enter vehicle details, summary of ride.
 \end{figure}
 
 \begin{figure}
 \subsubsection{Rider}
-In this module, the user acts as a rider. this module is consist of 4 activities  which contains 2 fragments (map, driver details), the passenger can use the map fragment to see the pickup point and current location and driver detail fragment to see the detail of driver. rider module also contains the activities to enter trip detail, summary of ride.
+In this module, the user acts as a rider. This module is consist of 4 activities  which contains 2 fragments (map, driver details), the passenger can use the map fragment to see the pickup point and current location and driver detail fragment to see the detail of driver. Rider module also contains the activities to enter trip detail, summary of ride.
 \end{figure}
 
 \begin{figure}
@@ -94,7 +95,7 @@ This application should never disclose any personal information of any user, and
 
 \begin{figure}
 \section{Database Design}
-Firebase platform provides a cloud-hosted realtime database. It is a NoSQL cloud database. data synchronizes among all clients and stays available even when the app goes offline. as it is a NoSQL database, so its functionality is different as compared to a relational database. the data is stored in the form of collections and documents. there is no relationship between classes, so there won’t be any schema of our database. data gets stored as JSON objects. it is more like a cloud-hosted JSON tree. when a person adds data to the JSON tree, it becomes a node in the existing JSON structure with an associated key. the best method is to use the denormalization technique; using which we split data into separate paths. it becomes easier to download the data in separate calls as required.
+Firebase platform provides a cloud-hosted real time database. It is a NoSQL cloud database. Data synchronizes among all clients and stays available even when the app goes offline. As it is a NoSQL database, so its functionality is different as compared to a relational database. The data is stored in the form of collections and documents. There is no relationship between classes, so there won’t be any schema of our database. Data gets stored as JSON Objects. it is more like a cloud-hosted JSON tree. When a person adds data to the JSON tree, it becomes a node in the existing JSON structure with an associated key. The best method is to use the denormalization technique; using which we split data into separate paths. It becomes easier to download the data in separate calls as required.
 \end{figure}
 
 \begin{figure}
@@ -109,7 +110,7 @@ This is the interface that shows up to the user when he’s open the application
 \subfloat[Welcome Screen]{\includegraphics[width = 2in]{S1}}
 \end{center}
 \subsection{Authentication Interfaces}
-The authentication interface is made as simple as possible while also being very beautiful and professional, it utilizes firebase auth as a backend which allows for a secure connection to the database plus encrypted passwords for extra security, this interface also contains options to recover password in case the user has forgotten their password.
+The authentication interface is made as simple as possible while also being very beautiful and professional, it utilizes Firebase auth as a backend which allows for a secure connection to the database plus encrypted passwords for extra security, this interface also contains options to recover password in case the user has forgotten their password.
 
 \end{figure}
 
@@ -132,7 +133,7 @@ This is the interface that shows up to the user when he’s logged in into the a
 \subfloat[Select User Type Screen]{\includegraphics[width = 2in]{S5}}
 \end{center}
 \subsection{Rider Interfaces}
-These interfaces are used by the passengers to post a ride details for drivers to see and select riders, these interfaces is extremely customizable and professional, by using Google Places API, Google Direction API, Google Map API in these interfaces. we have created a very organized and efficient algorithm to optimize the results when Passengers search for a driver, when rider picks an origin and a destination using Places AutoComplete API, the algorithm uses a combination of Geolocation and Places API to find the full address, city and sub city, then it converts the city into a number and saves all the information in the trip object for it to be saved into the database later.
+These interfaces are used by the passengers to post a ride details for drivers to see and select riders, these interfaces is extremely customizable and professional, by using Google Places API, Google Direction API, Google Map API in these interfaces. We have created a very organized and efficient algorithm to optimize the results when Passengers search for a driver, when rider picks an origin and a destination using Places AutoComplete API, the algorithm uses a combination of Geolocation and Places API to find the full address, city and sub city, then it converts the city into a number and saves all the information in the trip object for it to be saved into the database later.
 \end{figure}
 
 \begin{figure} 
@@ -151,7 +152,7 @@ These interfaces are used by the passengers to post a ride details for drivers t
 
 \begin{figure}
 \subsection{Driver Interfaces}
-These interfaces are used by rider to enter vehicle detail, see and select the passengers for trip, these form is extremely customizable and professional, by using Google Places API in this interface we have created a very organized and efficient algorithm to optimize the results, When the driver select riders using Places AutoComplete API, the algorithm uses a combination of Geolocation and Places API to find the full address, city and sub city, then it converts the city into a number and saves all the information in the trip object for it to be saved into the database later.
+These interfaces are used by rider to enter vehicle detail, see and select the passengers for trip, these form is extremely customizable and professional, by using Google Places API in this interface we have created a very organized and efficient algorithm to optimize the results, when the driver select riders using Places AutoComplete API, the algorithm uses a combination of Geolocation and Places API to find the full address, city and sub city, then it converts the city into a number and saves all the information in the trip object for it to be saved into the database later.
 \hspace*{\fill}
 \subfloat[Enter Vehicle Detail Screen]{\includegraphics[width = 2in]{S10}}\hfill 
 \subfloat[Driver Map Screen]{\includegraphics[width = 2in]{S11}}

@@ -1,7 +1,7 @@
 \chapter{System Implementation} \label{chap:sysImplementation}
 
 \section{System Architecture}
-application architecture is a set of technologies and models for the development of fully-structured mobile programs based on industry and vendor-specific standards. as we develop the architecture of our application, we also consider programs that work on wireless devices such as smartphones and tablets.
+Application architecture is a collection of well defined technologies and models for the development of fully-structured mobile programs that supported industry and vendor-specific standards. As we develop the architecture of our application, we also consider programs that execute on wireless devices such as smartphones and tablets.
 
 \begin{figure}[ht]
 \center
@@ -13,7 +13,7 @@ application architecture is a set of technologies and models for the development
 \section{Work Environment}
 
 \subsection{Hardware platforms}
-For the development of this application we have used an Hp Elitebook workstation 8460w it fairly powerful and could handle the usage of multiple emulators at once.
+For the development of this application we have used an Hp Elitebook workstation 8460w, it is fairly powerful and could handle the usage of multiple emulators at once.
 \\ Full specifications:
 
 \begin{itemize}
@@ -23,7 +23,7 @@ For the development of this application we have used an Hp Elitebook workstation
 \item \textbf{HDD Drive }: 1TB
 \end{itemize}
 
-For the testing of the application on a real device we have used an android phone Samsung Galaxy Note 8, Huawei  Mate 10 Pro.
+For the testing of the application on a real device we have used an android phone Samsung Galaxy Note 8, Huawei Mate 10 Pro.
 
 \subsection{Software platforms}
 As for the software part of the work environment we have used several tools and frameworks alongside different versions of android.
@@ -42,55 +42,64 @@ As for the software part of the work environment we have used several tools and 
 \subsection{Programming languages:} 
 \begin{itemize}
 \item \textbf{Application Programming }: Java\\
-Motivation: Java code is inherently safer than Kotlin code because it 
-prevents common programming mistakes by design, resulting in fewer 
-system failures and application crashes. when using Kotlin, certain error 
-causes are more likely to occur again.
+
+Motivation: Java code is inherently safer than Kotlin code because it prevents common programming mistakes by design, resulting in fewer system failures and application crashes. When using Kotlin, certain error causes are more likely to occur again.
 \item \textbf{Layout Design }: XML
 \item \textbf{Database Language }: NoSQL
 \end{itemize}
 
 \subsection{Frameworks used:}
 \begin{itemize}
-\item \textbf{Firebase Auth }: this framework that lets you implement easy authentication in this application email and phone number authentication was used.
-\item \textbf{Firebase Real-time Database }: this framework is used as our main database for this application it lets you read and write data from firebase in a NoSQL structure. 
-\item \textbf{Firebase Storage }: this framework is used to upload and download data such as photos and videos, this is used to store user pictures for our database.
-\item \textbf{Firebase Messaging }: a framework that makes real time messaging easy and possible using firebase, it’s also used for push notifications, this used for our messaging function between users in our application. 
-\item \textbf{ Google Maps API }a great API used for MapView that enables the application to show places on the map like the origin and destination and the way between them, it’s used in the map to trace the destination on the map for users.
-\item \textbf{Google Places API }: a very powerful API used to give information about places in the application and used to AutoComplete search queries, it’s used to auto complete search queries for our users for easier searching, it’s also used to optimize our search function.
-\item \textbf{Material Design Library }: material design Library with all of its components such as material buttons, material EditText etc.
-\item \textbf{RuntimePermission }: a small library to help manage android permissions with no problems. 
-\item \textbf{DxLoadingButton }: a small library with a loading button used for authentication. 
-\item \textbf{StfalconImageViewer }: a simple and customizable android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures.
-\item \textbf{Spinner }: a styleable drop down menu for android using the old spinner style. 
-\item \textbf{Tooltip }: simple to use customizable android Tooltips library based on popup window. 
-\item \textbf{EasyValidation }: a text and input validation library in Java for android. used to validate user input info.
-\item \textbf{Retrofit }: type-safe HTTP for android and Java.
+\item \textbf{Firebase Auth }: This framework that lets you implement easy authentication in this application email and phone number authentication was used.
+\item \textbf{Firebase Real-time Database }: This framework is used as our main database for this application it lets you read and write data from firebase in a NoSQL structure. 
+\item \textbf{Firebase Storage }: This framework is used to upload and download data such as photos and videos, this is used to store user pictures for our database.
+\item \textbf{Firebase Messaging }: A framework that makes real time messaging easy and possible using firebase, it’s also used for push notifications, this used for our messaging function between users in our application. 
+\item \textbf{ Google Maps API }: A great API used for MapView that enables the application to show places on the map like the origin and destination and the way between them, it’s used in the map to trace the destination on the map for users.
+\item \textbf{Google Places API }: A very powerful API used to give information about places in the application and used to AutoComplete search queries, it’s used to auto complete search queries for our users for easier searching, it’s also used to optimize our search function.
+\item \textbf{Material Design Library }: Material design Library with all of its components such as material buttons, material EditText etc.
+\item \textbf{RuntimePermission }: A small library to help manage android permissions with no problems. 
+\item \textbf{DxLoadingButton }: A small library with a loading button used for authentication. 
+\item \textbf{StfalconImageViewer }: A simple and customizable android full-screen image viewer with shared image transition support, "pinch to zoom" and "swipe to dismiss" gestures.
+\item \textbf{Spinner }: A styleable drop down menu for android using the old spinner style. 
+\item \textbf{Tooltip }: Simple to use customizable android Tooltips library based on popup window. 
+\item \textbf{EasyValidation }: A text and input validation library in Java for android. used to validate user input info.
+\item \textbf{Retrofit }: Type-safe HTTP for Android and Java.
 \end{itemize}
 
 \section{Database Management System}
-To manage the backend of our application we decided to use firebase real-time database alongside with firebase Auth and Firebase Storage. 
+To manage the backend of our application we decided to use Firebase real-time database alongside with Firebase Auth and Firebase Storage. 
 \begin{itemize}
 \item \textbf{Firebase Real-time Database }\\
-it’s a database structured in a NoSQL way, it’s usage is very easy and very fast, we have used this database to store User objects which contain all the information about the user such as name, email, number etc., we have also used it to store trip and trip request objects .
+
+It’s a database structured in a NoSQL way, it’s usage is very easy and very fast, we have used this database to store user objects which contain all the information about the user such as name, email, number etc. We have also used it to store trip and trip request objects.
 \textbf{example of the user node in the database}
 \end{itemize}
 \begin{figure}[ht]
 \center
-\includegraphics[width=1.2\textwidth]{DB} 
+\includegraphics[width=1.0\textwidth]{DB-1} 
 \caption{Example of a user mode in database}
 \label{fig:Example of a user mode in database}
 \end{figure}
-
+\begin{figure}[ht]
+\center
+\includegraphics[width=1.0\textwidth]{DB-2} 
+\caption{Example of a user mode in database}
+\label{fig:Example of a user mode in database}
+\end{figure}
 \begin{itemize}
 \item \textbf{Real-time Database Usage }\\
-For the usage of this database a separate database class was made on Java this class contains all database related functions the functions require a listener interface that has \textbf{onStart(), onSuccess(), onFailed(),} the interface is used to listen to changes in other classes.
-\\ The reason for creating a separate class with a listener interface is to make migration to another database easier. If we ever decide to switch to another database we will only change the content of the database class which would make changes faster, more professional and effective. 
-\\ Firebase’s real-time database allows you to use different query methods to fetch data from its Database: 
-\\ The first method is using \textbf{addListenerForSingleValueEvent,} this method listens to changes 
-in data for one time and does not trigger until it’s called again, this is good for fetching data only once. 
-\\ The second method is using \textbf{addValueEventListener,} this method listens to data every time it changes and it also triggers every time it changes this is good for things like messages and real time updates.
-\\ We have decided to use \textbf{addListenerForSingleValueEvent} for most of our data fetching, the reason is each time data has been read, Firebase charges for it, which means it the less data is fetched the better, for this we have avoided using\textbf{ addValueEventListener} instead we fetch the data once and save it locally, when the data is changed the user is required to refresh the page to get updates. however in cases where it’s important to get updates in real time like in messages we have used \textbf{addValueEventListener}. 
+
+For the usage of this database a separate database class was made on Java this class contains all database related functions the functions require a listener interface that has \textbf{onStart(), onSuccess(), onFailed(),} the interface is used to listen to changes in other classes.\\
+
+The reason for creating a separate class with a listener interface is to make migration to another database easier. If we ever decide to switch to another database we will only change the content of the database class which would make changes faster, more professional and effective.\\
+
+Firebase’s real-time database allows you to use different query methods to fetch data from its Database:\\
+The first method is using \textbf{addListenerForSingleValueEvent,} this method listens to changes 
+in data for one time and does not trigger until it’s called again, this is good for fetching data only once.\\
+
+The second method is using \textbf{addValueEventListener,} this method listens to data every time it changes and it also triggers every time it changes this is good for things like messages and real time updates.\\
+
+We have decided to use \textbf{addListenerForSingleValueEvent} for most of our data fetching, the reason is each time data has been read, Firebase charges for it, which means it the less data is fetched the better, for this we have avoided using\textbf{ addValueEventListener} instead we fetch the data once and save it locally, when the data is changed the user is required to refresh the page to get updates. however in cases where it’s important to get updates in real time like in messages we have used \textbf{addValueEventListener}. 
 \end{itemize}
 
 \section{Tools and Technology}
@@ -116,9 +125,12 @@ in data for one time and does not trigger until it’s called again, this is goo
 \section{Security}
 \begin{itemize}
 \item \textbf{Firebase Authentication}\\ 
+
 Firebase authentication is a very fast and secure way to sign users into our application it is used to log in and register users into our database in our case we are using the email verification, a user must verify his email to complete the registration.
-\item \textbf{Authentication Usage}
-\\ When a user registers, his basic information (Name, Email, Password) are registered in the Auth database but not the real time Database, after that users are welcomed with a finish registration activity, in this activity they have to verify their email using EMAIL verification, this method is used to prevent spam and multiple account creations, after verification and filling other information user data is saved on the real time database. as for the log in the system checks data and logs users if it’s correct.
+
+\item \textbf{Authentication Usage}\\
+
+When a user registers, his basic information (Name, Email, Password) are registered in the Auth database but not the real time Database, after that users are welcomed with a finish registration activity, in this activity they have to verify their email using EMAIL verification, this method is used to prevent spam and multiple account creations, after verification and filling other information user data is saved on the real time database. as for the log in the system checks data and logs users if it’s correct.
 \end{itemize}
 
 \section{Rules}
