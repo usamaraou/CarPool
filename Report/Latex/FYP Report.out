@@ -1,0 +1,102 @@
+\BOOKMARK [0][-]{Doc-Start}{Abstract}{}% 1
+\BOOKMARK [0][-]{Doc-Start}{Acknowledgments}{}% 2
+\BOOKMARK [1][-]{section.1}{Project Background/Review}{Doc-Start}% 3
+\BOOKMARK [1][-]{section.2}{Problem description}{Doc-Start}% 4
+\BOOKMARK [1][-]{section.3}{Project Objectives}{Doc-Start}% 5
+\BOOKMARK [1][-]{section.4}{Project Scope}{Doc-Start}% 6
+\BOOKMARK [1][-]{section.5}{The Degree of Project Report}{Doc-Start}% 7
+\BOOKMARK [1][-]{section.6}{Definition and general principle}{Doc-Start}% 8
+\BOOKMARK [1][-]{section.7}{Carpooling Types}{Doc-Start}% 9
+\BOOKMARK [2][-]{subsection.7.1}{Regular}{section.7}% 10
+\BOOKMARK [2][-]{subsection.7.2}{Occasional}{section.7}% 11
+\BOOKMARK [2][-]{subsection.7.3}{Eventual}{section.7}% 12
+\BOOKMARK [1][-]{section.8}{Advantages and disadvantages of carpooling applications}{Doc-Start}% 13
+\BOOKMARK [2][-]{subsection.8.1}{Advantages of carpooling}{section.8}% 14
+\BOOKMARK [2][-]{subsection.8.2}{Disadvantages of carpooling}{section.8}% 15
+\BOOKMARK [2][-]{subsection.8.3}{Existing System for carpooling}{section.8}% 16
+\BOOKMARK [2][-]{subsection.8.4}{Websites}{section.8}% 17
+\BOOKMARK [2][-]{subsection.8.5}{Mobile Applications}{section.8}% 18
+\BOOKMARK [1][-]{section.9}{Proposed System}{Doc-Start}% 19
+\BOOKMARK [1][-]{section.10}{Requirement Specifications}{Doc-Start}% 20
+\BOOKMARK [2][-]{subsection.10.1}{Functional Requirements}{section.10}% 21
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Functional Requirement - 01}{subsection.10.1}% 22
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Functional Requirement - 02}{subsection.10.1}% 23
+\BOOKMARK [3][-]{subsubsection.10.1.3}{Functional Requirement - 03}{subsection.10.1}% 24
+\BOOKMARK [3][-]{subsubsection.10.1.4}{Functional Requirement - 04}{subsection.10.1}% 25
+\BOOKMARK [3][-]{subsubsection.10.1.5}{Functional Requirement - 05}{subsection.10.1}% 26
+\BOOKMARK [3][-]{subsubsection.10.1.6}{Functional Requirement - 06}{subsection.10.1}% 27
+\BOOKMARK [3][-]{subsubsection.10.1.7}{Functional Requirement - 07}{subsection.10.1}% 28
+\BOOKMARK [3][-]{subsubsection.10.1.8}{Functional Requirement - 08}{subsection.10.1}% 29
+\BOOKMARK [3][-]{subsubsection.10.1.9}{Functional Requirement - 09}{subsection.10.1}% 30
+\BOOKMARK [2][-]{subsection.10.2}{Non-Functional Requirements}{section.10}% 31
+\BOOKMARK [3][-]{subsubsection.10.2.1}{Non-Functional Requirement - 01}{subsection.10.2}% 32
+\BOOKMARK [3][-]{subsubsection.10.2.2}{Non-Functional Requirement - 02}{subsection.10.2}% 33
+\BOOKMARK [3][-]{subsubsection.10.2.3}{Non-Functional Requirement - 03}{subsection.10.2}% 34
+\BOOKMARK [3][-]{subsubsection.10.2.4}{Non-Functional Requirement - 04}{subsection.10.2}% 35
+\BOOKMARK [3][-]{subsubsection.10.2.5}{Non-Functional Requirement - 05}{subsection.10.2}% 36
+\BOOKMARK [3][-]{subsubsection.10.2.6}{Non-Functional Requirement - 06}{subsection.10.2}% 37
+\BOOKMARK [3][-]{subsubsection.10.2.7}{Non-Functional Requirement - 07}{subsection.10.2}% 38
+\BOOKMARK [1][-]{section.11}{Use Cases}{Doc-Start}% 39
+\BOOKMARK [2][-]{subsection.11.1}{Use Case Diagram}{section.11}% 40
+\BOOKMARK [2][-]{subsection.11.2}{Use Case Description}{section.11}% 41
+\BOOKMARK [3][-]{subsubsection.11.2.1}{Table 17: Use Case - 01}{subsection.11.2}% 42
+\BOOKMARK [3][-]{subsubsection.11.2.2}{Use Case - 02}{subsection.11.2}% 43
+\BOOKMARK [3][-]{subsubsection.11.2.3}{Use Case - 03}{subsection.11.2}% 44
+\BOOKMARK [3][-]{subsubsection.11.2.4}{Use Case - 04}{subsection.11.2}% 45
+\BOOKMARK [3][-]{subsubsection.11.2.5}{Use Case - 05}{subsection.11.2}% 46
+\BOOKMARK [3][-]{subsubsection.11.2.6}{Use Case - 06}{subsection.11.2}% 47
+\BOOKMARK [3][-]{subsubsection.11.2.7}{Use Case - 07}{subsection.11.2}% 48
+\BOOKMARK [3][-]{subsubsection.11.2.8}{Use Case - 08}{subsection.11.2}% 49
+\BOOKMARK [3][-]{subsubsection.11.2.9}{Use Case - 09}{subsection.11.2}% 50
+\BOOKMARK [3][-]{subsubsection.11.2.10}{Use Case - 10}{subsection.11.2}% 51
+\BOOKMARK [3][-]{subsubsection.11.2.11}{Use Case - 11}{subsection.11.2}% 52
+\BOOKMARK [1][-]{section.12}{System Architecture}{Doc-Start}% 53
+\BOOKMARK [2][-]{subsection.12.1}{High Level Context Diagram}{section.12}% 54
+\BOOKMARK [1][-]{section.13}{Design Constraints}{Doc-Start}% 55
+\BOOKMARK [1][-]{section.14}{Design Methodology}{Doc-Start}% 56
+\BOOKMARK [1][-]{section.15}{High-Level Design}{Doc-Start}% 57
+\BOOKMARK [2][-]{subsection.15.1}{Conceptual or Logical: UML Package diagram}{section.15}% 58
+\BOOKMARK [2][-]{subsection.15.2}{Process Interaction Diagram}{section.15}% 59
+\BOOKMARK [2][-]{subsection.15.3}{Physical Deployment Diagram}{section.15}% 60
+\BOOKMARK [2][-]{subsection.15.4}{Modules}{section.15}% 61
+\BOOKMARK [3][-]{subsubsection.15.4.1}{User Registration}{subsection.15.4}% 62
+\BOOKMARK [3][-]{subsubsection.15.4.2}{Driver}{subsection.15.4}% 63
+\BOOKMARK [3][-]{subsubsection.15.4.3}{Rider}{subsection.15.4}% 64
+\BOOKMARK [2][-]{subsection.15.5}{Security}{section.15}% 65
+\BOOKMARK [1][-]{section.16}{Low Level Design}{Doc-Start}% 66
+\BOOKMARK [1][-]{section.17}{Database Design}{Doc-Start}% 67
+\BOOKMARK [1][-]{section.18}{GUI Design}{Doc-Start}% 68
+\BOOKMARK [2][-]{subsection.18.1}{Welcome Interface}{section.18}% 69
+\BOOKMARK [2][-]{subsection.18.2}{Authentication Interfaces}{section.18}% 70
+\BOOKMARK [2][-]{subsection.18.3}{Type Switching Interface}{section.18}% 71
+\BOOKMARK [2][-]{subsection.18.4}{Rider Interfaces}{section.18}% 72
+\BOOKMARK [2][-]{subsection.18.5}{Driver Interfaces}{section.18}% 73
+\BOOKMARK [1][-]{section.19}{System Architecture}{Doc-Start}% 74
+\BOOKMARK [1][-]{section.20}{Work Environment}{Doc-Start}% 75
+\BOOKMARK [2][-]{subsection.20.1}{Hardware platforms}{section.20}% 76
+\BOOKMARK [2][-]{subsection.20.2}{Software platforms}{section.20}% 77
+\BOOKMARK [2][-]{subsection.20.3}{Work Tools}{section.20}% 78
+\BOOKMARK [2][-]{subsection.20.4}{Programming languages:}{section.20}% 79
+\BOOKMARK [2][-]{subsection.20.5}{Frameworks used:}{section.20}% 80
+\BOOKMARK [1][-]{section.21}{Database Management System}{Doc-Start}% 81
+\BOOKMARK [1][-]{section.22}{Tools and Technology}{Doc-Start}% 82
+\BOOKMARK [1][-]{section.23}{System requirements}{Doc-Start}% 83
+\BOOKMARK [1][-]{section.24}{Security}{Doc-Start}% 84
+\BOOKMARK [1][-]{section.25}{Rules}{Doc-Start}% 85
+\BOOKMARK [1][-]{section.26}{Graphical user interface testing}{Doc-Start}% 86
+\BOOKMARK [2][-]{subsubsection.26.0.1}{Table 28: user interface testing}{section.26}% 87
+\BOOKMARK [1][-]{section.27}{Graphical user interface testing}{Doc-Start}% 88
+\BOOKMARK [2][-]{subsubsection.27.0.1}{Usability testing}{section.27}% 89
+\BOOKMARK [1][-]{section.28}{Software performance testing}{Doc-Start}% 90
+\BOOKMARK [2][-]{subsubsection.28.0.1}{user interface testing}{section.28}% 91
+\BOOKMARK [1][-]{section.29}{Compatibility testing}{Doc-Start}% 92
+\BOOKMARK [2][-]{subsubsection.29.0.1}{Compatibility testing}{section.29}% 93
+\BOOKMARK [1][-]{section.30}{Exception handling}{Doc-Start}% 94
+\BOOKMARK [2][-]{subsubsection.30.0.1}{Exception handling}{section.30}% 95
+\BOOKMARK [1][-]{section.31}{Security testing}{Doc-Start}% 96
+\BOOKMARK [2][-]{subsubsection.31.0.1}{Security testing}{section.31}% 97
+\BOOKMARK [1][-]{section.32}{Installation testing}{Doc-Start}% 98
+\BOOKMARK [2][-]{subsubsection.32.0.1}{Installation testing}{section.32}% 99
+\BOOKMARK [1][-]{section.33}{Conclusion}{Doc-Start}% 100
+\BOOKMARK [1][-]{section.34}{Future Work}{Doc-Start}% 101
+\BOOKMARK [0][-]{section.34}{Bibliography}{}% 102
