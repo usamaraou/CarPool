@@ -64,7 +64,10 @@
 \contentsline {section}{\numberline {6.5}Security Testing}{41}%
 \contentsline {section}{\numberline {6.6}Installation Testing}{42}%
 \contentsline {chapter}{\numberline {7}Conclusions and Future Work}{43}%
-\contentsline {chapter}{Bibliography}{45}%
-\contentsline {chapter}{\numberline {A}Application Workflow}{46}%
-\contentsline {chapter}{\numberline {B}Interviews}{47}%
-\contentsline {chapter}{\numberline {C}Steeple Analysis}{49}%
+\contentsline {chapter}{\numberline {8}Conclusions}{44}%
+\contentsline {section}{\numberline {8.1}Conclusion}{44}%
+\contentsline {section}{\numberline {8.2}Future Work}{45}%
+\contentsline {chapter}{Bibliography}{46}%
+\contentsline {chapter}{\numberline {A}Application Workflow}{47}%
+\contentsline {chapter}{\numberline {B}Interviews}{48}%
+\contentsline {chapter}{\numberline {C}Steeple Analysis}{50}%
