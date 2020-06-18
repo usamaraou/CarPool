@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.6)  18 JUN 2020 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.6)  18 JUN 2020 14:03
 entering extended mode
 **./CarPool.tex
 (CarPool.tex
@@ -1141,22 +1141,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
@@ -1250,7 +1250,7 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mal
 ikS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <C:/Users/malikS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmtt12.pfb>
-Output written on CarPool.pdf (59 pages, 2958962 bytes).
+Output written on CarPool.pdf (59 pages, 2958902 bytes).
 PDF statistics:
  327 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
