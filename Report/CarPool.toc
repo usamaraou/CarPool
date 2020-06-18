@@ -64,8 +64,7 @@
 \contentsline {section}{\numberline {6.5}Security Testing}{41}%
 \contentsline {section}{\numberline {6.6}Installation Testing}{42}%
 \contentsline {chapter}{\numberline {7}Conclusions}{43}%
-\contentsline {section}{\numberline {7.1}Conclusion}{43}%
-\contentsline {section}{\numberline {7.2}Future Work}{44}%
+\contentsline {section}{\numberline {7.1}Future Work}{44}%
 \contentsline {chapter}{Bibliography}{45}%
 \contentsline {chapter}{\numberline {A}Application Workflow}{46}%
 \contentsline {chapter}{\numberline {B}Interviews}{47}%
