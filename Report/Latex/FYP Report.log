@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  18 JUN 2020 07:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.7)  18 JUN 2020 07:42
 entering extended mode
 **"./FYP Report.tex"
 ("FYP Report.tex"
@@ -649,6 +649,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  (Chapter3.tex
 Chapter 3.
 
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
@@ -839,16 +844,12 @@ File: Figures/PackageDiagram.png Graphic file (type png)
 Package pdftex.def Info: Figures/PackageDiagram.png  used on input line 37.
 (pdftex.def)             Requested size: 426.79135pt x 211.37762pt.
  [21 <./Figures/SubSystem.png>]
-<Figures/InteractionDiagram.png, id=168, 481.19775pt x 765.45975pt>
+<Figures/InteractionDiagram.png, id=168, 480.5955pt x 655.85025pt>
 File: Figures/InteractionDiagram.png Graphic file (type png)
 <use Figures/InteractionDiagram.png>
 Package pdftex.def Info: Figures/InteractionDiagram.png  used on input line 45.
 
-(pdftex.def)             Requested size: 426.79616pt x 678.92105pt.
-
-
-LaTeX Warning: Float too large for page by 62.3407pt on input line 48.
-
+(pdftex.def)             Requested size: 426.79pt x 582.42393pt.
 <Figures/DeploymentDiagram.png, id=169, 701.019pt x 434.22224pt>
 File: Figures/DeploymentDiagram.png Graphic file (type png)
 <use Figures/DeploymentDiagram.png>
@@ -1259,7 +1260,7 @@ Here is how much of TeX's memory you used:
  22727 multiletter control sequences out of 15000+200000
  543168 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,54p,1351b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,10n,54p,1351b,420s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\usama\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1440.pk> <C:\Users\usama\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
@@ -1267,7 +1268,7 @@ cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc
 10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "FYP Report.pdf" (64 pages, 2967352 bytes).
+Output written on "FYP Report.pdf" (64 pages, 2966350 bytes).
 PDF statistics:
  343 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -43,7 +43,7 @@
 \contentsline {section}{\numberline {3.3}Use Cases}{13}%
 \contentsline {subsection}{\numberline {3.3.1}Use Case Diagram}{13}%
 \contentsline {subsection}{\numberline {3.3.2}Use Case Description}{14}%
-\contentsline {subsubsection}{\numberline {3.3.2.1}Table 17: Use Case - 01}{14}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Use Case - 01}{14}%
 \contentsline {subsubsection}{\numberline {3.3.2.2}Use Case - 02}{14}%
 \contentsline {subsubsection}{\numberline {3.3.2.3}Use Case - 03}{15}%
 \contentsline {subsubsection}{\numberline {3.3.2.4}Use Case - 04}{15}%
