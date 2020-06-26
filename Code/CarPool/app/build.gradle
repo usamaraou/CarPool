@@ -19,7 +19,6 @@ android {
         }
     }
 }
-
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.0.2'
@@ -38,8 +37,14 @@ dependencies {
     implementation 'com.google.android.libraries.places:places:2.2.0'
     implementation 'com.skyfishjy.ripplebackground:library:1.0.1'
     implementation 'com.firebase:geofire-java:2.1.1'
+    //noinspection GradleCompatible
     implementation 'com.android.support:recyclerview-v7:26.+'
     implementation 'com.firebaseui:firebase-ui-database:1.2.0'
+   // implementation 'com.dx.dxloadingbutton.lib.LoadingButton'
+    implementation 'com.github.StevenDXC:DxLoadingButton:1.9'
+  //  implementation "com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1"
+   // implementation "com.android.support:support-compat:28.0.0"
+
 
 
 }

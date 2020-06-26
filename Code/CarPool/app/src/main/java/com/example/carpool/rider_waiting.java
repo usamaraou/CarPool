@@ -68,9 +68,7 @@ public class rider_waiting extends AppCompatActivity {
            final String number = dataSnapshot.child("Driver_Number").getValue(String.class);
            String v_n =dataSnapshot.child("Vehicle_Number").getValue(String.class);
 
-//           if(name== null) {
-//
-//           }else {
+
 
                dname.setText( name);
               dname.setCompoundDrawablesWithIntrinsicBounds(R.drawable.ic_person_white_24dp, 0, 0, 0);
@@ -100,15 +98,16 @@ public class rider_waiting extends AppCompatActivity {
                 DatabaseReference r = FirebaseDatabase.getInstance().getReference("Destination");
                 DatabaseReference r2 = FirebaseDatabase.getInstance().getReference("RidesAvailable");
                 DatabaseReference r3 = FirebaseDatabase.getInstance().getReference("Connected_Rides");
-                r3.child(Uid).removeValue();
-                r.child(Uid).child("Destination").setValue("");
-                r.child(Uid).child("PickUp_Point").setValue("");
+
+                r.child(Uid).removeValue();
                 r2.child(Uid).removeValue();
+                r3.child(Uid).removeValue();
 
 //                la.setText("Waiting for Driver To Response");
 //                im.setVisibility(View.VISIBLE);
                 Intent intent = new Intent(rider_waiting.this,Rider_Summary.class);
                 startActivity(intent);
+
             }
         });
     }}

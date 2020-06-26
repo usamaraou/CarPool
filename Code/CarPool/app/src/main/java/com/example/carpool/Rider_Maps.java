@@ -218,11 +218,12 @@ public class Rider_Maps extends FragmentActivity implements OnMapReadyCallback, 
 //                builder.setTitle("Pick up your Destination");
 //                builder.setSingleChoiceItems(R.arr)
 
-                Intent intent = new Intent(Rider_Maps.this, rider_waiting.class);
+                Intent intent = new Intent(Rider_Maps.this, Rwait.class);
                 startActivity(intent);
 
             }
         });
+
     }
 
 
@@ -265,7 +266,8 @@ public class Rider_Maps extends FragmentActivity implements OnMapReadyCallback, 
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
 
                 String n = dataSnapshot.child("PickUp_Point").getValue().toString();
-                if (n == null) {
+                if (n.equals(null)) {
+                    Toast.makeText(Rider_Maps.this,"No Pickup",Toast.LENGTH_LONG).show();
 
 
                 } else {

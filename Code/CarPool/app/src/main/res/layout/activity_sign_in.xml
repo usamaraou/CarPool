@@ -58,7 +58,8 @@
             android:textSize="16sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toStartOf="@+id/UserTypeSwitch"
-            tools:layout_editor_absoluteY="3dp" />
+            tools:layout_editor_absoluteY="3dp"
+            tools:ignore="MissingConstraints" />
 
         <TextView
             android:id="@+id/textView18"

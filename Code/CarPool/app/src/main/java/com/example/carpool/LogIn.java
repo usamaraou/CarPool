@@ -12,6 +12,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.dx.dxloadingbutton.lib.LoadingButton;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
@@ -53,7 +54,8 @@ public class LogIn extends AppCompatActivity {
         getSupportActionBar().hide();
         email = (EditText) findViewById(R.id.EtEmail);
         pass = (EditText) findViewById(R.id.EtPass);
-        login = (Button) findViewById(R.id.LogIn);
+        login = (Button) findViewById(R.id.Login);
+
 
         // Forgot Password
         TextView textViewF = (TextView) findViewById(R.id.ForgotPasswrod);
@@ -71,16 +73,7 @@ public class LogIn extends AppCompatActivity {
 
 
         mAuth = FirebaseAuth.getInstance();
-        mAutL = new FirebaseAuth.AuthStateListener() {
-            @Override
-            public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
 
-            }
-
-
-            //Create New Account
-
-        };
         // create Account Intent
         TextView signup = (TextView) findViewById(R.id.CreateAccount);
         signup.setOnClickListener(new View.OnClickListener() {
@@ -89,57 +82,13 @@ public class LogIn extends AppCompatActivity {
                 startActivity(intentS);
             }
         });
-        database = FirebaseDatabase.getInstance();
-        ref = database.getReference("message");
-
-        ref.addValueEventListener(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-
-                String value = dataSnapshot.getValue(String.class);
-
-            }
-
-            @Override
-            public void onCancelled(@NonNull DatabaseError databaseError) {
-
-            }
-        });
-
-        mAutL = new FirebaseAuth.AuthStateListener() {
-            @Override
-            public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
-                FirebaseUser user = firebaseAuth.getCurrentUser();
-                if (user != null) {
-                    //user is signed in
-                    Log.d(TAG, "User Signed IN");
-                } else {
-                    //user is signed out
-                    Log.d(TAG, "User Signed out");
-                }
-            }
-        };
-    }
-
-    @Override
-    protected void onStart() {
-        super.onStart();
-        mAuth.addAuthStateListener(mAutL);
-
-    }
-
-    @Override
-    protected void onStop() {
-        super.onStop();
-        if (mAutL != null) {
-            mAuth.removeAuthStateListener(mAutL);
-        }
 
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String emailt = email.getText().toString();
+               final String emailt = email.getText().toString();
                 String passt = pass.getText().toString();
+                // login.startLoading();
 
                 if (!emailt.equals("") && !pass.equals("")) {
                     mAuth.signInWithEmailAndPassword(emailt, passt)
@@ -147,6 +96,8 @@ public class LogIn extends AppCompatActivity {
                                 @Override
                                 public void onComplete(@NonNull Task<AuthResult> task) {
 
+
+                                   // String emailPattern = "[0-9]+@[s]+[t]+[u]+[d]+[e]+[n]+[t][s]+\\.+[a]+[u]+\\.+[e]+[d]+[u]+\\.+[p]+[k]+";
                                     if (!task.isSuccessful()) {
                                         Toast.makeText(LogIn.this, "Wrong Email or Password", Toast.LENGTH_LONG).show();
                                         //ref.setValue("NOOOOOOO");
@@ -165,6 +116,9 @@ public class LogIn extends AppCompatActivity {
 
     }
 
+
+
+
     private void checkIfEmailVerified() {
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
 
@@ -174,6 +128,7 @@ public class LogIn extends AppCompatActivity {
             finish();
             Toast.makeText(LogIn.this, "Successfully logged in", Toast.LENGTH_SHORT).show();
             Intent intent = new Intent(LogIn.this,SignIn.class);
+           // login.loadingSuccessful();
 
                     startActivity(intent);
 

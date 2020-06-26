@@ -13,7 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Pickup"></activity>
+        <activity android:name=".Rwait"></activity>
+        <activity android:name=".Pickup" />
         <activity android:name=".Driver_Selected_Rides" />
 
         <meta-data

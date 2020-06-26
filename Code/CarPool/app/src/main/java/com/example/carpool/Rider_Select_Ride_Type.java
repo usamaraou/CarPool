@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.Switch;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -61,16 +62,18 @@ public class Rider_Select_Ride_Type extends AppCompatActivity {
                 String text = spinner.getSelectedItem().toString();
                 String text2 = spinner2.getSelectedItem().toString();
 
-//                if(text.equals("Select Destination")){
-//                 button.setVisibility(View.INVISIBLE);
-//                   // Toast.makeText(Rider_Select_Ride_Type.this,"SAmi",Toast.LENGTH_LONG).show();
-//                }else{
-//                    button.setVisibility(View.VISIBLE);
-              //  Toast.makeText(Rider_Select_Ride_Type.this,text,Toast.LENGTH_LONG).show();
-
+//                if(!text.equals("Select Destination")){
+//                    button.setEnabled();
+//
                     ref.child(UId.getUid()).child("Destination").setValue(text);
-                ref.child(UId.getUid()).child("PickUp_Point").setValue(text2);
-
+                    ref.child(UId.getUid()).child("PickUp_Point").setValue(text2);
+//                   // Toast.makeText(Rider_Select_Ride_Type.this,"SAmi",Toast.LENGTH_LONG).show();
+//                }else {
+//                    button.setEnabled(false);
+//                    Toast.makeText(Rider_Select_Ride_Type.this, text, Toast.LENGTH_LONG).show();
+//
+//
+//                }
                 if(s.isChecked()){
                     ref.child(UId.getUid()).child("Vehicle_Type").setValue("Car");
 
@@ -83,6 +86,7 @@ public class Rider_Select_Ride_Type extends AppCompatActivity {
 
                 Intent intent = new Intent(Rider_Select_Ride_Type.this, Rider_Maps.class);
                 startActivity(intent);
+
 
                 // Toast.makeText(MainActivity.this,"Welcome", Toast.LENGTH_LONG).show();
             }//}

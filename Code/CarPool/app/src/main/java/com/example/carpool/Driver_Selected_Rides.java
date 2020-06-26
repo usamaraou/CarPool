@@ -61,7 +61,7 @@ public class Driver_Selected_Rides extends AppCompatActivity {
                final DatabaseReference re= FirebaseDatabase.getInstance().getReference("Driver_Vehicle_Details");
                 myRef.child(uid).removeValue();
 
-                re.child(uid).child("Vehicle_Number").setValue("");
+                re.child(uid).removeValue();
 
                 Intent i = new Intent(Driver_Selected_Rides.this,Driver_Rides_Summary.class);
                 startActivity(i);

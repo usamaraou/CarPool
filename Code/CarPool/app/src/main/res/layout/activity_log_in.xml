@@ -58,7 +58,13 @@
         android:text="Password"
 
         />
-
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textColorHint="@color/colorAccent"
+        app:passwordToggleEnabled="true">
     <EditText
         android:id="@+id/EtPass"
         android:layout_width="match_parent"
@@ -68,7 +74,7 @@
         android:ems="10"
         android:inputType="textPassword"
         android:hint="Password"/>
-
+    </com.google.android.material.textfield.TextInputLayout>
     <TextView
         android:id="@+id/ForgotPasswrod"
         android:layout_width="wrap_content"
@@ -89,7 +95,7 @@
         />
 
     <Button
-        android:id="@+id/LogIn"
+        android:id="@+id/Login"
         android:layout_width="wrap_content"
         android:layout_height="50sp"
         android:layout_gravity="center"
